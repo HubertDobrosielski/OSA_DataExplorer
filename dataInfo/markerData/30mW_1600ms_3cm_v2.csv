@@ -1,0 +1,16 @@
+
+Trace,D
+S. Level,3.0,dB,-57.43,dBm
+Peak Count,6,
+Signal Prmtr,Peak,,,Point,,
+Noise Prmtr,Point,(L+R)/2
+Resolution Normalize,Off,,
+Noise Position,Off,
+Gain Vari,2.93,dB
+No.,Wl,,Freq,,Level,,SNR,,L/R,Spacing,,SpacingF
+1,1516.166000,nm,197.7306,THz,-55.7,dBm,17.8,dB,A,0.000000,nm,0.0,GHz
+2,1536.758000,nm,195.0811,THz,-57.36,dBm,10.02,dB,A,20.592000,nm,2649.5,GHz
+3,1557.647000,nm,192.465,THz,-56.29,dBm,-.41,dB,A,20.889000,nm,2616.1,GHz
+4,1559.446000,nm,192.2429,THz,-54.48,dBm,-5.67,dB,A,1.799000,nm,222.1,GHz
+5,1559.594000,nm,192.2247,THz,-54.43,dBm,-11.6,dB,A,0.148000,nm,18.2,GHz
+6,1559.891000,nm,192.1881,THz,-54.54,dBm,.43,dB,A,0.297000,nm,36.6,GHz

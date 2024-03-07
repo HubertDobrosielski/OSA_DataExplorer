@@ -1,0 +1,121 @@
+
+Trace,A
+Center Wavelength,1542.5,nm
+Span Wavelength,165,nm
+Start Wavelength,1460,nm
+Stop Wavelength,1625,nm
+Value In Air/Vacuum,Vacuum,
+Optical Attenuater,Off,
+Resolution,0.03,nm
+Actual Resolution,0.028,nm
+VBW,1000,Hz
+Point Average,Off,
+Sweep Average,1,
+Smooth,Off,
+Sampling Points,10001,pt
+Trace Type,Fix,
+Trace Storage Mode,Off,
+Trace Calculate Trace 1,-,
+Trace Calculate Trace 2,-,
+Dynamic Range,Normal,
+Ext-Trigger,Off,
+Interval Time,Off,
+MM Mode,Off,
+Start,1460,nm
+Stop,1625,nm
+Trace,B
+Center Wavelength,1542.5,nm
+Span Wavelength,165,nm
+Start Wavelength,1460,nm
+Stop Wavelength,1625,nm
+Value In Air/Vacuum,Vacuum,
+Optical Attenuater,Off,
+Resolution,0.03,nm
+Actual Resolution,0.028,nm
+VBW,1000,Hz
+Point Average,Off,
+Sweep Average,1,
+Smooth,Off,
+Sampling Points,10001,pt
+Trace Type,Fix,
+Trace Storage Mode,Off,
+Trace Calculate Trace 1,-,
+Trace Calculate Trace 2,-,
+Dynamic Range,Normal,
+Ext-Trigger,Off,
+Interval Time,Off,
+MM Mode,Off,
+Start,1460,nm
+Stop,1625,nm
+Trace,C
+Center Wavelength,1542.5,nm
+Span Wavelength,165,nm
+Start Wavelength,1460,nm
+Stop Wavelength,1625,nm
+Value In Air/Vacuum,Vacuum,
+Optical Attenuater,Off,
+Resolution,0.03,nm
+Actual Resolution,0.028,nm
+VBW,1000,Hz
+Point Average,Off,
+Sweep Average,1,
+Smooth,Off,
+Sampling Points,10001,pt
+Trace Type,Fix,
+Trace Storage Mode,Off,
+Trace Calculate Trace 1,-,
+Trace Calculate Trace 2,-,
+Dynamic Range,Normal,
+Ext-Trigger,Off,
+Interval Time,Off,
+MM Mode,Off,
+Start,1460,nm
+Stop,1625,nm
+Trace,D
+Center Wavelength,1542.5,nm
+Span Wavelength,165,nm
+Start Wavelength,1460,nm
+Stop Wavelength,1625,nm
+Value In Air/Vacuum,Vacuum,
+Optical Attenuater,Off,
+Resolution,0.03,nm
+Actual Resolution,0.028,nm
+VBW,1000,Hz
+Point Average,Off,
+Sweep Average,1,
+Smooth,Off,
+Sampling Points,10001,pt
+Trace Type,Write,
+Trace Storage Mode,Off,
+Trace Calculate Trace 1,-,
+Trace Calculate Trace 2,-,
+Dynamic Range,Normal,
+Ext-Trigger,Off,
+Interval Time,Off,
+MM Mode,Off,
+Start,1460,nm
+Stop,1625,nm
+Trace,E
+Center Wavelength,1542.5,nm
+Span Wavelength,165,nm
+Start Wavelength,1460,nm
+Stop Wavelength,1625,nm
+Value In Air/Vacuum,Vacuum,
+Optical Attenuater,Off,
+Resolution,0.03,nm
+Actual Resolution,0.028,nm
+VBW,1000,Hz
+Point Average,Off,
+Sweep Average,1,
+Smooth,Off,
+Sampling Points,10001,pt
+Trace Type,Calculate,
+Trace Storage Mode,Off,
+Trace Calculate Trace 1,-,
+Trace Calculate Trace 2,-,
+Dynamic Range,Normal,
+Ext-Trigger,Off,
+Interval Time,Off,
+MM Mode,Off,
+Start,1460,nm
+Stop,1625,nm

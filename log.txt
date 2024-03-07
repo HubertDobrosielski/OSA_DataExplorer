@@ -1,0 +1,2621 @@
+English language was selected
+Reading language is succesful
+2024-11-02 19:01:23 - English language was selected
+2024-11-02 19:01:23 - Reading language is succesful
+2024-11-02 19:01:58 - Nie wybrano Zadnego elementu
+2024-12-02 19:01:03 - Nie wybrano Zadnego elementu
+2024-12-02 19:01:03 - Nie wybrano Zadnego elementu
+2024-15-02 19:01:40.314 - English language was selected
+2024-15-02 19:01:40.346 - Reading language is succesful
+[2024-16-02 19:01:17.014] - English language was selected
+[2024-16-02 19:01:17.067] - Reading language is succesful
+[2024-25-02 19:01:16.684] >>> English language was selected
+[2024-25-02 19:01:16.710] >>> Reading language is succesful
+[2024-25-02 19:01:46.462] >>> Tree Panel was created
+[2024-25-02 19:01:46.470] >>> Tree grif layout was created
+[2024-25-02 19:01:46.483] >>> Tree was created
+[2024-25-02 19:01:51.108] >>> TreeClicked
+[2024-25-02 19:01:51.112] >>> wybrano plik csv
+[2024-26-02 19:01:11.437] >>> TreeClicked
+[2024-26-02 19:01:11.440] >>> wybrano plik csv
+[2024-26-02 19:01:12.307] >>> TreeClicked
+[2024-26-02 19:01:12.314] >>> wybrano plik csv
+[2024-26-02 19:01:12.783] >>> TreeClicked
+[2024-26-02 19:01:12.786] >>> wybrano plik csv
+[2024-26-02 19:01:13.162] >>> TreeClicked
+[2024-26-02 19:01:13.169] >>> wybrano plik csv
+[2024-26-02 19:01:13.564] >>> TreeClicked
+[2024-26-02 19:01:13.568] >>> wybrano plik csv
+[2024-26-02 19:01:14.044] >>> TreeClicked
+[2024-26-02 19:01:14.047] >>> wybrano plik csv
+[2024-26-02 19:01:14.254] >>> TreeClicked
+[2024-26-02 19:01:14.258] >>> wybrano plik csv
+[2024-26-02 19:01:15.688] >>> TreeClicked
+[2024-26-02 19:01:15.692] >>> wybrano trace
+[2024-26-02 19:01:16.369] >>> TreeClicked
+[2024-26-02 19:01:16.375] >>> wybrano trace
+[2024-26-02 19:01:16.721] >>> TreeClicked
+[2024-26-02 19:01:16.725] >>> wybrano trace
+[2024-26-02 19:01:17.018] >>> TreeClicked
+[2024-26-02 19:01:17.021] >>> wybrano plik csv
+[2024-26-02 19:01:17.402] >>> TreeClicked
+[2024-26-02 19:01:17.407] >>> wybrano plik csv
+[2024-26-02 19:01:17.562] >>> TreeClicked
+[2024-26-02 19:01:17.566] >>> wybrano plik csv
+[2024-26-02 19:01:17.958] >>> TreeClicked
+[2024-26-02 19:01:17.964] >>> wybrano plik csv
+[2024-26-02 19:01:18.339] >>> TreeClicked
+[2024-26-02 19:01:18.342] >>> wybrano plik csv
+[2024-26-02 19:01:18.750] >>> TreeClicked
+[2024-26-02 19:01:18.753] >>> wybrano plik csv
+[2024-26-02 19:01:19.047] >>> TreeClicked
+[2024-26-02 19:01:19.050] >>> wybrano plik csv
+[2024-26-02 19:01:19.389] >>> TreeClicked
+[2024-26-02 19:01:19.393] >>> wybrano plik csv
+[2024-26-02 19:01:19.715] >>> TreeClicked
+[2024-26-02 19:01:19.717] >>> wybrano plik csv
+[2024-37-02 19:01:29.573] >>> TreeClicked
+[2024-37-02 19:01:29.575] >>> wybrano plik csv
+[2024-37-02 19:01:31.322] >>> TreeClicked
+[2024-37-02 19:01:31.326] >>> wybrano plik csv
+[2024-25-03 07:01:11.683] >>> English language was selected
+[2024-25-03 07:01:11.905] >>> Reading language is succesful
+[2024-25-03 07:01:38.072] >>> English language was selected
+[2024-25-03 07:01:38.124] >>> Reading language is succesful
+[2024-25-03 07:01:51.660] >>> Tree Panel was created
+[2024-25-03 07:01:51.681] >>> Tree grif layout was created
+[2024-25-03 07:01:51.717] >>> Tree was created
+[2024-25-03 07:01:58.259] >>> csv file was selected
+[2024-26-03 07:01:00.476] >>> csv file was selected
+[2024-26-03 07:01:01.629] >>> Trace was selected
+[2024-26-03 07:01:02.491] >>> Trace was selected
+[2024-26-03 07:01:03.206] >>> csv file was selected
+[2024-26-03 07:01:04.186] >>> Trace was selected
+[2024-26-03 07:01:04.727] >>> Trace was selected
+[2024-26-03 07:01:05.460] >>> csv file was selected
+[2024-26-03 07:01:06.827] >>> Trace was selected
+[2024-26-03 07:01:07.261] >>> Trace was selected
+[2024-26-03 07:01:07.780] >>> csv file was selected
+[2024-26-03 07:01:08.659] >>> Trace was selected
+[2024-26-03 07:01:09.091] >>> Trace was selected
+[2024-26-03 07:01:09.862] >>> csv file was selected
+[2024-26-03 07:01:10.531] >>> Trace was selected
+[2024-26-03 07:01:11.153] >>> csv file was selected
+[2024-27-03 07:01:03.158] >>> English language was selected
+[2024-27-03 07:01:03.217] >>> Reading language is succesful
+[2024-27-03 07:01:14.045] >>> Tree Panel was created
+[2024-27-03 07:01:14.063] >>> Tree grif layout was created
+[2024-27-03 07:01:14.099] >>> Tree was created
+[2024-31-03 07:01:09.207] >>> English language was selected
+[2024-31-03 07:01:09.315] >>> Reading language is succesful
+[2024-31-03 07:01:24.866] >>> Tree Panel was created
+[2024-31-03 07:01:24.877] >>> Tree grif layout was created
+[2024-31-03 07:01:24.920] >>> Tree was created
+[2024-42-03 07:01:54.392] >>> English language was selected
+[2024-42-03 07:01:54.510] >>> Reading language is succesful
+[2024-43-03 07:01:06.862] >>> Tree Panel was created
+[2024-43-03 07:01:06.877] >>> Tree grif layout was created
+[2024-43-03 07:01:06.912] >>> Tree was created
+[2024-43-03 07:01:42.956] >>> csv file was selected
+[2024-43-03 07:01:44.542] >>> Trace was selected
+[2024-43-03 07:01:44.574] >>> Charts grid was created
+[2024-43-03 07:01:44.696] >>> Spectral char was created
+[2024-43-03 07:01:47.421] >>> FFT chart was created
+[2024-43-03 07:01:51.849] >>> IFFT chart was created
+[2024-44-03 07:01:14.689] >>> Trace was selected
+[2024-44-03 07:01:16.714] >>> Trace was selected
+[2024-44-03 07:01:17.333] >>> Trace was selected
+[2024-44-03 07:01:17.401] >>> Charts grid was created
+[2024-44-03 07:01:17.443] >>> Spectral char was created
+[2024-44-03 07:01:17.467] >>> FFT chart was created
+[2024-44-03 07:01:17.490] >>> IFFT chart was created
+[2024-44-03 07:01:19.744] >>> Trace was selected
+[2024-44-03 07:01:21.667] >>> Trace was selected
+[2024-44-03 07:01:24.901] >>> Trace was selected
+[2024-44-03 07:01:26.485] >>> Trace was selected
+[2024-44-03 07:01:29.980] >>> Trace was selected
+[2024-44-03 07:01:30.505] >>> csv file was selected
+[2024-46-03 07:01:24.956] >>> Trace was selected
+[2024-46-03 07:01:25.522] >>> Trace was selected
+[2024-46-03 07:01:26.161] >>> Trace was selected
+[2024-46-03 07:01:28.232] >>> Trace was selected
+[2024-46-03 07:01:28.299] >>> Charts grid was created
+[2024-46-03 07:01:28.339] >>> Spectral char was created
+[2024-46-03 07:01:28.363] >>> FFT chart was created
+[2024-46-03 07:01:28.386] >>> IFFT chart was created
+[2024-46-03 07:01:30.570] >>> Trace was selected
+[2024-46-03 07:01:32.736] >>> Trace was selected
+[2024-46-03 07:01:59.085] >>> Trace was selected
+[2024-47-03 07:01:19.313] >>> IFFT chart was created
+[2024-47-03 07:01:54.685] >>> FFT chart was created
+[2024-48-03 07:01:01.944] >>> Trace was selected
+[2024-48-03 07:01:02.622] >>> Trace was selected
+[2024-48-03 07:01:03.193] >>> Trace was selected
+[2024-48-03 07:01:03.879] >>> Trace was selected
+[2024-48-03 07:01:04.523] >>> Trace was selected
+[2024-48-03 07:01:05.178] >>> Trace was selected
+[2024-48-03 07:01:05.846] >>> Trace was selected
+[2024-48-03 07:01:06.221] >>> Trace was selected
+[2024-48-03 07:01:06.993] >>> Trace was selected
+[2024-48-03 07:01:08.146] >>> Trace was selected
+[2024-48-03 07:01:08.684] >>> Trace was selected
+[2024-48-03 07:01:09.998] >>> Trace was selected
+[2024-48-03 07:01:11.161] >>> Trace was selected
+[2024-48-03 07:01:11.635] >>> Trace was selected
+[2024-48-03 07:01:12.209] >>> Trace was selected
+[2024-48-03 07:01:12.286] >>> Charts grid was created
+[2024-48-03 07:01:12.350] >>> Spectral char was created
+[2024-54-03 07:01:25.928] >>> English language was selected
+[2024-05-03 08:01:12.472] >>> English language was selected
+[2024-05-03 08:01:12.607] >>> Reading language is succesful
+[2024-22-03 08:01:36.601] >>> Tree Panel was created
+[2024-22-03 08:01:36.618] >>> Tree grif layout was created
+[2024-22-03 08:01:36.650] >>> Tree was created
+[2024-22-03 08:01:44.806] >>> csv file was selected
+[2024-22-03 08:01:46.977] >>> Trace was selected
+[2024-22-03 08:01:47.027] >>> Charts grid was created
+[2024-22-03 08:01:47.110] >>> Spectral char was created
+[2024-22-03 08:01:53.418] >>> FFT chart was created
+[2024-22-03 08:01:56.993] >>> IFFT chart was created
+[2024-06-03 18:01:43.788] >>> csv file was selected
+[2024-07-03 18:01:27.546] >>> Trace was selected
+[2024-07-03 18:01:28.686] >>> Trace was selected
+[2024-37-03 21:01:29.985] >>> English language was selected
+[2024-37-03 21:01:30.247] >>> Reading language is succesful
+[2024-37-03 21:01:41.785] >>> Tree Panel was created
+[2024-37-03 21:01:41.794] >>> Tree grif layout was created
+[2024-37-03 21:01:41.816] >>> Tree was created
+[2024-37-03 21:01:51.992] >>> csv file was selected
+[2024-38-03 21:01:00.697] >>> Trace was selected
+[2024-38-03 21:01:00.724] >>> Charts grid was created
+[2024-38-03 21:01:00.843] >>> Spectral char was created
+[2024-38-03 21:01:36.391] >>> csv file was selected
+[2024-39-03 21:01:07.751] >>> Trace was selected
+[2024-39-03 21:01:09.459] >>> Trace was selected
+[2024-39-03 21:01:11.740] >>> Trace was selected
+[2024-39-03 21:01:15.944] >>> Trace was selected
+[2024-39-03 21:01:18.009] >>> Trace was selected
+[2024-39-03 21:01:20.390] >>> Trace was selected
+[2024-39-03 21:01:20.964] >>> Trace was selected
+[2024-39-03 21:01:21.035] >>> Charts grid was created
+[2024-39-03 21:01:21.091] >>> Spectral char was created
+[2024-39-03 21:01:21.706] >>> Trace was selected
+[2024-39-03 21:01:32.404] >>> Trace was selected
+[2024-39-03 21:01:56.552] >>> English language was selected
+[2024-39-03 21:01:56.584] >>> Reading language is succesful
+[2024-40-03 21:01:05.949] >>> Tree Panel was created
+[2024-40-03 21:01:05.956] >>> Tree grif layout was created
+[2024-40-03 21:01:05.972] >>> Tree was created
+[2024-40-03 21:01:16.473] >>> csv file was selected
+[2024-40-03 21:01:18.197] >>> Trace was selected
+[2024-40-03 21:01:18.233] >>> Charts grid was created
+[2024-40-03 21:01:18.277] >>> Spectral char was created
+[2024-40-03 21:01:21.674] >>> FFT chart was created
+[2024-40-03 21:01:27.377] >>> IFFT chart was created
+[2024-41-03 21:01:06.684] >>> FFT chart was created
+[2024-41-03 21:01:08.634] >>> FFT chart was created
+[2024-41-03 21:01:11.472] >>> IFFT chart was created
+[2024-41-03 21:01:42.154] >>> Trace was selected
+[2024-41-03 21:01:43.010] >>> Trace was selected
+[2024-41-03 21:01:43.641] >>> Trace was selected
+[2024-41-03 21:01:44.193] >>> Trace was selected
+[2024-41-03 21:01:44.659] >>> Trace was selected
+[2024-41-03 21:01:44.718] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:45.899] >>> csv file was selected
+[2024-41-03 21:01:45.906] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:45.961] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:45.963] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:46.464] >>> csv file was selected
+[2024-41-03 21:01:46.472] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:46.476] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:46.580] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:46.584] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:46.586] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.089] >>> csv file was selected
+[2024-41-03 21:01:47.098] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.100] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.102] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.232] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.238] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.242] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.248] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.806] >>> csv file was selected
+[2024-41-03 21:01:47.816] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.817] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.819] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.821] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.995] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.996] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:47.999] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.001] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.003] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.684] >>> csv file was selected
+[2024-41-03 21:01:48.694] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.697] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.699] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.702] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.704] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.864] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.868] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.871] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.873] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.874] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:48.877] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:50.553] >>> csv file was selected
+[2024-41-03 21:01:50.563] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:50.566] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:50.568] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:50.570] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:50.571] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:50.573] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.219] >>> csv file was selected
+[2024-41-03 21:01:51.231] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.233] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.235] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.237] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.239] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.240] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.442] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.444] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.447] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.449] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.453] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:51.998] >>> csv file was selected
+[2024-41-03 21:01:52.008] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.010] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.015] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.017] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.019] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.198] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.200] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.202] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:52.205] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.530] >>> csv file was selected
+[2024-41-03 21:01:53.541] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.543] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.545] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.547] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.703] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.706] >>> refreshCharts: Data is empty
+[2024-41-03 21:01:53.708] >>> refreshCharts: Data is empty
+[2024-48-05 00:01:30.256] >>> English language was selected
+[2024-48-05 00:01:35.489] >>> Reading language is succesful
+[2024-49-05 00:01:03.823] >>> Tree Panel was created
+[2024-49-05 00:01:03.864] >>> Tree grif layout was created
+[2024-49-05 00:01:04.048] >>> Tree was created
+[2024-49-05 00:01:23.894] >>> Tree Panel was created
+[2024-49-05 00:01:23.910] >>> Tree grif layout was created
+[2024-49-05 00:01:23.935] >>> Tree was created
+[2024-52-05 00:01:05.679] >>> English language was selected
+[2024-52-05 00:01:13.911] >>> Reading language is succesful
+[2024-52-05 00:01:26.968] >>> Tree Panel was created
+[2024-52-05 00:01:26.986] >>> Tree grif layout was created
+[2024-52-05 00:01:27.023] >>> Tree was created
+[2024-52-05 00:01:46.061] >>> Tree Panel was created
+[2024-52-05 00:01:46.077] >>> Tree grif layout was created
+[2024-52-05 00:01:46.107] >>> Tree was created
+[2024-56-05 00:01:52.145] >>> English language was selected
+[2024-56-05 00:01:52.533] >>> Reading language is succesful
+[2024-57-05 00:01:06.667] >>> Tree Panel was created
+[2024-57-05 00:01:06.677] >>> Tree grif layout was created
+[2024-57-05 00:01:06.743] >>> Tree was created
+[2024-57-05 00:01:17.767] >>> Tree Panel was created
+[2024-57-05 00:01:17.781] >>> Tree grif layout was created
+[2024-57-05 00:01:17.795] >>> Tree was created
+[2024-10-05 01:01:09.407] >>> English language was selected
+[2024-10-05 01:01:09.854] >>> Reading language is succesful
+[2024-11-05 01:01:17.894] >>> English language was selected
+[2024-11-05 01:01:18.273] >>> Reading language is succesful
+[2024-11-05 01:01:55.023] >>> English language was selected
+[2024-11-05 01:01:55.109] >>> Reading language is succesful
+[2024-12-05 01:01:34.671] >>> English language was selected
+[2024-12-05 01:01:34.734] >>> Reading language is succesful
+[2024-16-05 01:01:17.788] >>> English language was selected
+[2024-16-05 01:01:17.898] >>> Reading language is succesful
+[2024-29-05 01:01:07.750] >>> English language was selected
+[2024-29-05 01:01:07.952] >>> Reading language is succesful
+[2024-30-05 01:01:06.341] >>> English language was selected
+[2024-30-05 01:01:06.479] >>> Reading language is succesful
+[2024-32-05 01:01:58.491] >>> English language was selected
+[2024-32-05 01:01:58.648] >>> Reading language is succesful
+[2024-33-05 01:01:52.297] >>> English language was selected
+[2024-33-05 01:01:52.419] >>> Reading language is succesful
+[2024-36-05 01:01:14.912] >>> English language was selected
+[2024-36-05 01:01:15.043] >>> Reading language is succesful
+[2024-37-05 01:01:44.709] >>> English language was selected
+[2024-37-05 01:01:44.847] >>> Reading language is succesful
+[2024-50-05 01:01:27.263] >>> English language was selected
+[2024-50-05 01:01:27.338] >>> Reading language is succesful
+[2024-51-05 01:01:30.775] >>> English language was selected
+[2024-51-05 01:01:30.856] >>> Reading language is succesful
+[2024-08-05 02:01:03.453] >>> English language was selected
+[2024-08-05 02:01:03.523] >>> Reading language is succesful
+[2024-08-05 02:01:18.935] >>> csv file was selected
+[2024-09-05 02:01:20.873] >>> English language was selected
+[2024-09-05 02:01:20.895] >>> Reading language is succesful
+[2024-09-05 02:01:28.489] >>> csv file was selected
+[2024-09-05 02:01:30.691] >>> Trace was selected
+[2024-09-05 02:01:30.730] >>> Charts grid was created
+[2024-09-05 02:01:31.352] >>> Spectral char was created
+[2024-09-05 02:01:42.673] >>> FFT chart was created
+[2024-10-05 02:01:03.093] >>> FFT chart was created
+[2024-10-05 02:01:06.275] >>> FFT chart was created
+[2024-10-05 02:01:07.715] >>> FFT chart was created
+[2024-10-05 02:01:09.167] >>> FFT chart was created
+[2024-10-05 02:01:10.635] >>> FFT chart was created
+[2024-10-05 02:01:12.013] >>> FFT chart was created
+[2024-10-05 02:01:13.476] >>> FFT chart was created
+[2024-10-05 02:01:15.082] >>> FFT chart was created
+[2024-10-05 02:01:20.091] >>> FFT chart was created
+[2024-10-05 02:01:20.421] >>> FFT chart was created
+[2024-10-05 02:01:20.719] >>> FFT chart was created
+[2024-10-05 02:01:21.043] >>> FFT chart was created
+[2024-10-05 02:01:22.531] >>> FFT chart was created
+[2024-13-05 02:01:16.203] >>> English language was selected
+[2024-13-05 02:01:16.266] >>> Reading language is succesful
+[2024-13-05 02:01:24.587] >>> csv file was selected
+[2024-13-05 02:01:26.122] >>> Trace was selected
+[2024-13-05 02:01:26.144] >>> Charts grid was created
+[2024-13-05 02:01:26.190] >>> Spectral char was created
+[2024-13-05 02:01:27.916] >>> Trace was selected
+[2024-13-05 02:01:28.523] >>> Trace was selected
+[2024-13-05 02:01:28.542] >>> Charts grid was created
+[2024-13-05 02:01:28.580] >>> Spectral char was created
+[2024-13-05 02:01:29.129] >>> Trace was selected
+[2024-13-05 02:01:30.043] >>> Trace was selected
+[2024-13-05 02:01:30.059] >>> Charts grid was created
+[2024-13-05 02:01:30.088] >>> Spectral char was created
+[2024-13-05 02:01:31.569] >>> FFT chart was created
+[2024-13-05 02:01:33.958] >>> Trace was selected
+[2024-13-05 02:01:34.767] >>> Trace was selected
+[2024-13-05 02:01:34.780] >>> Charts grid was created
+[2024-13-05 02:01:34.818] >>> Spectral char was created
+[2024-23-05 02:01:51.558] >>> English language was selected
+[2024-23-05 02:01:51.613] >>> Reading language is succesful
+[2024-24-05 02:01:17.755] >>> English language was selected
+[2024-24-05 02:01:17.777] >>> Reading language is succesful
+[2024-24-05 02:01:41.698] >>> English language was selected
+[2024-24-05 02:01:41.718] >>> Reading language is succesful
+[2024-44-05 02:01:41.993] >>> English language was selected
+[2024-44-05 02:01:42.073] >>> Reading language is succesful
+[2024-45-05 02:01:00.197] >>> English language was selected
+[2024-45-05 02:01:00.223] >>> Reading language is succesful
+[2024-01-05 03:01:32.420] >>> English language was selected
+[2024-01-05 03:01:32.488] >>> Reading language is succesful
+[2024-01-05 03:01:55.737] >>> Trace was selected
+[2024-01-05 03:01:55.760] >>> Charts grid was created
+[2024-01-05 03:01:55.790] >>> Spectral char was created
+[2024-02-05 03:01:01.800] >>> English language was selected
+[2024-02-05 03:01:01.828] >>> Reading language is succesful
+[2024-02-05 03:01:03.907] >>> English language was selected
+[2024-02-05 03:01:03.932] >>> Reading language is succesful
+[2024-02-05 03:01:17.380] >>> csv file was selected
+[2024-02-05 03:01:19.033] >>> Trace was selected
+[2024-02-05 03:01:19.050] >>> Charts grid was created
+[2024-02-05 03:01:19.076] >>> Spectral char was created
+[2024-02-05 03:01:23.609] >>> csv file was selected
+[2024-03-05 03:01:12.643] >>> English language was selected
+[2024-03-05 03:01:12.663] >>> Reading language is succesful
+[2024-03-05 03:01:21.539] >>> csv file was selected
+[2024-03-05 03:01:21.564] >>> Charts grid was created
+[2024-03-05 03:01:21.591] >>> Spectral char was created
+[2024-03-05 03:01:25.101] >>> csv file was selected
+[2024-03-05 03:01:27.611] >>> csv file was selected
+[2024-03-05 03:01:27.630] >>> Charts grid was created
+[2024-03-05 03:01:27.651] >>> Spectral char was created
+[2024-03-05 03:01:28.252] >>> csv file was selected
+[2024-03-05 03:01:28.708] >>> csv file was selected
+[2024-03-05 03:01:28.760] >>> Charts grid was created
+[2024-03-05 03:01:28.781] >>> Spectral char was created
+[2024-03-05 03:01:29.292] >>> csv file was selected
+[2024-03-05 03:01:29.742] >>> csv file was selected
+[2024-03-05 03:01:29.759] >>> Charts grid was created
+[2024-03-05 03:01:29.779] >>> Spectral char was created
+[2024-03-05 03:01:30.107] >>> csv file was selected
+[2024-03-05 03:01:30.235] >>> csv file was selected
+[2024-03-05 03:01:30.252] >>> Charts grid was created
+[2024-03-05 03:01:30.277] >>> Spectral char was created
+[2024-03-05 03:01:30.359] >>> csv file was selected
+[2024-03-05 03:01:31.229] >>> csv file was selected
+[2024-03-05 03:01:32.890] >>> Trace was selected
+[2024-03-05 03:01:32.904] >>> Charts grid was created
+[2024-03-05 03:01:32.926] >>> Spectral char was created
+[2024-03-05 03:01:33.445] >>> Trace was selected
+[2024-03-05 03:01:34.816] >>> Trace was selected
+[2024-03-05 03:01:34.829] >>> Charts grid was created
+[2024-03-05 03:01:34.848] >>> Spectral char was created
+[2024-03-05 03:01:35.271] >>> Trace was selected
+[2024-03-05 03:01:35.987] >>> Trace was selected
+[2024-03-05 03:01:36.001] >>> Charts grid was created
+[2024-03-05 03:01:36.021] >>> Spectral char was created
+[2024-03-05 03:01:36.424] >>> Trace was selected
+[2024-03-05 03:01:37.190] >>> Trace was selected
+[2024-03-05 03:01:37.204] >>> Charts grid was created
+[2024-03-05 03:01:37.224] >>> Spectral char was created
+[2024-03-05 03:01:37.704] >>> Trace was selected
+[2024-03-05 03:01:38.404] >>> Trace was selected
+[2024-03-05 03:01:38.431] >>> Charts grid was created
+[2024-03-05 03:01:38.450] >>> Spectral char was created
+[2024-03-05 03:01:39.229] >>> Trace was selected
+[2024-03-05 03:01:39.957] >>> Trace was selected
+[2024-03-05 03:01:39.969] >>> Charts grid was created
+[2024-03-05 03:01:39.988] >>> Spectral char was created
+[2024-03-05 03:01:40.721] >>> Trace was selected
+[2024-03-05 03:01:41.457] >>> Trace was selected
+[2024-03-05 03:01:41.470] >>> Charts grid was created
+[2024-03-05 03:01:41.486] >>> Spectral char was created
+[2024-03-05 03:01:42.307] >>> Trace was selected
+[2024-03-05 03:01:44.905] >>> csv file was selected
+[2024-03-05 03:01:44.918] >>> Charts grid was created
+[2024-03-05 03:01:44.939] >>> Spectral char was created
+[2024-24-05 03:01:48.653] >>> English language was selected
+[2024-24-05 03:01:48.772] >>> Reading language is succesful
+[2024-25-05 03:01:05.898] >>> csv file was selected
+[2024-25-05 03:01:33.945] >>> English language was selected
+[2024-25-05 03:01:33.965] >>> Reading language is succesful
+[2024-25-05 03:01:48.987] >>> csv file was selected
+[2024-25-05 03:01:50.561] >>> Trace was selected
+[2024-25-05 03:01:50.580] >>> Charts grid was created
+[2024-25-05 03:01:50.617] >>> Spectral char was created
+[2024-25-05 03:01:52.735] >>> Trace was selected
+[2024-25-05 03:01:54.053] >>> csv file was selected
+[2024-25-05 03:01:54.068] >>> Charts grid was created
+[2024-25-05 03:01:54.089] >>> Spectral char was created
+[2024-27-05 03:01:43.679] >>> English language was selected
+[2024-27-05 03:01:43.702] >>> Reading language is succesful
+[2024-27-05 03:01:55.898] >>> csv file was selected
+[2024-27-05 03:01:59.515] >>> Trace was selected
+[2024-28-05 03:01:01.536] >>> Trace was selected
+[2024-28-05 03:01:01.552] >>> Charts grid was created
+[2024-28-05 03:01:01.572] >>> Spectral char was created
+[2024-28-05 03:01:25.208] >>> Trace was selected
+[2024-28-05 03:01:48.650] >>> English language was selected
+[2024-28-05 03:01:48.685] >>> Reading language is succesful
+[2024-28-05 03:01:56.354] >>> csv file was selected
+[2024-28-05 03:01:57.517] >>> csv file was selected
+[2024-28-05 03:01:57.535] >>> Charts grid was created
+[2024-28-05 03:01:57.553] >>> Spectral char was created
+[2024-29-05 03:01:07.184] >>> English language was selected
+[2024-29-05 03:01:07.216] >>> Reading language is succesful
+[2024-29-05 03:01:19.002] >>> csv file was selected
+[2024-29-05 03:01:19.021] >>> Charts grid was created
+[2024-29-05 03:01:19.046] >>> Spectral char was created
+[2024-29-05 03:01:21.876] >>> csv file was selected
+[2024-29-05 03:01:22.497] >>> csv file was selected
+[2024-29-05 03:01:23.077] >>> csv file was selected
+[2024-29-05 03:01:23.094] >>> Charts grid was created
+[2024-29-05 03:01:23.112] >>> Spectral char was created
+[2024-29-05 03:01:23.595] >>> csv file was selected
+[2024-29-05 03:01:23.769] >>> csv file was selected
+[2024-29-05 03:01:23.786] >>> Charts grid was created
+[2024-29-05 03:01:23.803] >>> Spectral char was created
+[2024-29-05 03:01:23.959] >>> csv file was selected
+[2024-29-05 03:01:24.077] >>> csv file was selected
+[2024-29-05 03:01:24.089] >>> Charts grid was created
+[2024-29-05 03:01:24.104] >>> Spectral char was created
+[2024-29-05 03:01:24.494] >>> csv file was selected
+[2024-35-05 03:01:47.837] >>> English language was selected
+[2024-35-05 03:01:47.865] >>> Reading language is succesful
+[2024-36-05 03:01:01.831] >>> English language was selected
+[2024-36-05 03:01:01.853] >>> Reading language is succesful
+[2024-39-05 03:01:40.488] >>> English language was selected
+[2024-39-05 03:01:40.509] >>> Reading language is succesful
+[2024-40-05 03:01:04.898] >>> English language was selected
+[2024-40-05 03:01:04.914] >>> Reading language is succesful
+[2024-45-05 03:01:23.456] >>> English language was selected
+[2024-45-05 03:01:23.476] >>> Reading language is succesful
+[2024-45-05 03:01:38.552] >>> English language was selected
+[2024-45-05 03:01:38.577] >>> Reading language is succesful
+[2024-45-05 03:01:54.609] >>> English language was selected
+[2024-45-05 03:01:54.632] >>> Reading language is succesful
+[2024-46-05 03:01:14.487] >>> English language was selected
+[2024-46-05 03:01:14.507] >>> Reading language is succesful
+[2024-48-05 03:01:20.312] >>> English language was selected
+[2024-48-05 03:01:20.342] >>> Reading language is succesful
+[2024-50-05 03:01:47.861] >>> English language was selected
+[2024-50-05 03:01:47.884] >>> Reading language is succesful
+[2024-51-05 03:01:16.542] >>> English language was selected
+[2024-51-05 03:01:16.570] >>> Reading language is succesful
+[2024-52-05 03:01:14.332] >>> English language was selected
+[2024-52-05 03:01:14.346] >>> Reading language is succesful
+[2024-53-05 03:01:06.352] >>> English language was selected
+[2024-53-05 03:01:06.371] >>> Reading language is succesful
+[2024-06-05 05:01:12.839] >>> English language was selected
+[2024-06-05 05:01:13.201] >>> Reading language is succesful
+[2024-06-05 05:01:56.450] >>> csv file was selected
+[2024-07-05 05:01:00.115] >>> csv file was selected
+[2024-07-05 05:01:01.780] >>> csv file was selected
+[2024-07-05 05:01:03.209] >>> Trace was selected
+[2024-07-05 05:01:04.823] >>> Trace was selected
+[2024-07-05 05:01:04.917] >>> Charts grid was created
+[2024-07-05 05:01:05.266] >>> Spectral char was created
+[2024-07-05 05:01:09.717] >>> csv file was selected
+[2024-07-05 05:01:12.185] >>> csv file was selected
+[2024-07-05 05:01:14.073] >>> csv file was selected
+[2024-07-05 05:01:14.168] >>> Charts grid was created
+[2024-07-05 05:01:14.231] >>> Spectral char was created
+[2024-07-05 05:01:16.104] >>> csv file was selected
+[2024-07-05 05:01:17.581] >>> csv file was selected
+[2024-07-05 05:01:18.034] >>> csv file was selected
+[2024-07-05 05:01:19.519] >>> csv file was selected
+[2024-07-05 05:01:19.605] >>> Charts grid was created
+[2024-07-05 05:01:19.663] >>> Spectral char was created
+[2024-07-05 05:01:24.732] >>> csv file was selected
+[2024-07-05 05:01:26.193] >>> Trace was selected
+[2024-07-05 05:01:26.233] >>> Charts grid was created
+[2024-07-05 05:01:26.321] >>> Spectral char was created
+[2024-07-05 05:01:28.766] >>> FFT chart was created
+[2024-07-05 05:01:39.429] >>> FFT chart was created
+[2024-07-05 05:01:44.702] >>> IFFT chart was created
+[2024-07-05 05:01:48.544] >>> IFFT chart was created
+[2024-07-05 05:01:51.516] >>> IFFT chart was created
+[2024-07-05 05:01:53.408] >>> IFFT chart was created
+[2024-07-05 05:01:56.423] >>> IFFT chart was created
+[2024-08-05 05:01:06.957] >>> FFT chart was created
+[2024-08-05 05:01:08.936] >>> FFT chart was created
+[2024-08-05 05:01:10.824] >>> IFFT chart was created
+[2024-08-05 05:01:14.051] >>> FFT chart was created
+[2024-08-05 05:01:16.229] >>> FFT chart was created
+[2024-08-05 05:01:18.735] >>> FFT chart was created
+[2024-08-05 05:01:19.706] >>> IFFT chart was created
+[2024-08-05 05:01:22.700] >>> IFFT chart was created
+[2024-08-05 05:01:24.013] >>> FFT chart was created
+[2024-11-05 05:01:13.606] >>> English language was selected
+[2024-11-05 05:01:13.638] >>> Reading language is succesful
+[2024-37-05 05:01:36.764] >>> csv file was selected
+[2024-37-05 05:01:39.880] >>> Trace was selected
+[2024-37-05 05:01:39.898] >>> Charts grid was created
+[2024-37-05 05:01:39.924] >>> Spectral char was created
+[2024-37-05 05:01:45.598] >>> FFT chart was created
+[2024-40-05 05:01:41.850] >>> English language was selected
+[2024-40-05 05:01:41.872] >>> Reading language is succesful
+[2024-40-05 05:01:49.186] >>> csv file was selected
+[2024-40-05 05:01:50.943] >>> Trace was selected
+[2024-40-05 05:01:50.962] >>> Charts grid was created
+[2024-40-05 05:01:50.992] >>> Spectral char was created
+[2024-41-05 05:01:02.643] >>> FFT chart was created
+[2024-41-05 05:01:09.663] >>> IFFT chart was created
+[2024-41-05 05:01:13.500] >>> IFFT chart was created
+[2024-42-05 05:01:05.283] >>> English language was selected
+[2024-42-05 05:01:05.305] >>> Reading language is succesful
+[2024-42-05 05:01:13.098] >>> csv file was selected
+[2024-42-05 05:01:15.092] >>> Trace was selected
+[2024-42-05 05:01:15.108] >>> Charts grid was created
+[2024-42-05 05:01:15.133] >>> Spectral char was created
+[2024-42-05 05:01:17.998] >>> FFT chart was created
+[2024-42-05 05:01:38.466] >>> English language was selected
+[2024-42-05 05:01:38.485] >>> Reading language is succesful
+[2024-42-05 05:01:49.480] >>> csv file was selected
+[2024-42-05 05:01:50.424] >>> csv file was selected
+[2024-42-05 05:01:51.720] >>> Trace was selected
+[2024-42-05 05:01:51.737] >>> Charts grid was created
+[2024-42-05 05:01:51.762] >>> Spectral char was created
+[2024-42-05 05:01:53.245] >>> FFT chart was created
+[2024-43-05 05:01:49.424] >>> English language was selected
+[2024-43-05 05:01:49.446] >>> Reading language is succesful
+[2024-43-05 05:01:59.280] >>> csv file was selected
+[2024-44-05 05:01:01.622] >>> Trace was selected
+[2024-44-05 05:01:01.638] >>> Charts grid was created
+[2024-44-05 05:01:01.669] >>> Spectral char was created
+[2024-44-05 05:01:03.668] >>> FFT chart was created
+[2024-45-05 05:01:20.324] >>> English language was selected
+[2024-45-05 05:01:20.351] >>> Reading language is succesful
+[2024-45-05 05:01:31.084] >>> csv file was selected
+[2024-45-05 05:01:33.113] >>> Trace was selected
+[2024-45-05 05:01:33.130] >>> Charts grid was created
+[2024-45-05 05:01:33.155] >>> Spectral char was created
+[2024-45-05 05:01:35.266] >>> FFT chart was created
+[2024-45-05 05:01:37.772] >>> IFFT chart was created
+[2024-46-05 05:01:06.758] >>> Trace was selected
+[2024-46-05 05:01:08.393] >>> Trace was selected
+[2024-47-05 05:01:03.332] >>> Trace was selected
+[2024-47-05 05:01:14.859] >>> Trace was selected
+[2024-47-05 05:01:17.429] >>> Trace was selected
+[2024-47-05 05:01:18.705] >>> Trace was selected
+[2024-18-05 07:01:13.347] >>> English language was selected
+[2024-18-05 07:01:13.616] >>> Reading language is succesful
+[2024-18-05 07:01:27.286] >>> csv file was selected
+[2024-18-05 07:01:27.778] >>> csv file was selected
+[2024-18-05 07:01:28.474] >>> csv file was selected
+[2024-18-05 07:01:28.515] >>> Charts grid was created
+[2024-18-05 07:01:28.558] >>> Spectral char was created
+[2024-18-05 07:01:28.860] >>> csv file was selected
+[2024-12-06 15:01:45.134] >>> English language was selected
+[2024-12-06 15:01:47.176] >>> Reading language is succesful
+[2024-13-06 15:01:30.525] >>> csv file was selected
+[2024-13-06 15:01:35.771] >>> Trace was selected
+[2024-13-06 15:01:35.804] >>> Charts grid was created
+[2024-13-06 15:01:36.593] >>> Spectral char was created
+[2024-13-06 15:01:41.474] >>> Trace was selected
+[2024-13-06 15:01:43.485] >>> Trace was selected
+[2024-13-06 15:01:46.901] >>> Trace was selected
+[2024-13-06 15:01:47.865] >>> Trace was selected
+[2024-13-06 15:01:48.949] >>> Trace was selected
+[2024-13-06 15:01:50.522] >>> csv file was selected
+[2024-13-06 15:01:54.804] >>> csv file was selected
+[2024-14-06 15:01:18.252] >>> Trace was selected
+[2024-14-06 15:01:20.069] >>> Trace was selected
+[2024-14-06 15:01:20.101] >>> Charts grid was created
+[2024-14-06 15:01:20.164] >>> Spectral char was created
+[2024-14-06 15:01:42.694] >>> English language was selected
+[2024-14-06 15:01:42.851] >>> Reading language is succesful
+[2024-15-06 15:01:42.644] >>> csv file was selected
+[2024-15-06 15:01:51.886] >>> csv file was selected
+[2024-16-06 15:01:34.773] >>> Trace was selected
+[2024-16-06 15:01:34.796] >>> Charts grid was created
+[2024-16-06 15:01:34.845] >>> Spectral char was created
+[2024-16-06 15:01:40.050] >>> Trace was selected
+[2024-16-06 15:01:46.589] >>> Trace was selected
+[2024-16-06 15:01:52.380] >>> csv file was selected
+[2024-17-06 15:01:29.890] >>> Trace was selected
+[2024-17-06 15:01:31.799] >>> Trace was selected
+[2024-17-06 15:01:39.358] >>> Trace was selected
+[2024-17-06 15:01:40.885] >>> Trace was selected
+[2024-17-06 15:01:41.828] >>> Trace was selected
+[2024-17-06 15:01:44.626] >>> Trace was selected
+[2024-09-08 14:01:39.792] >>> English language was selected
+[2024-09-08 14:01:41.834] >>> Reading language is succesful
+[2024-10-08 14:01:38.705] >>> csv file was selected
+[2024-11-08 14:01:01.137] >>> Trace was selected
+[2024-11-08 14:01:01.178] >>> Charts grid was created
+[2024-11-08 14:01:02.166] >>> Spectral char was created
+[2024-11-08 14:01:03.243] >>> Trace was selected
+[2024-11-08 14:01:03.623] >>> Trace was selected
+[2024-11-08 14:01:03.691] >>> Charts grid was created
+[2024-11-08 14:01:03.793] >>> Spectral char was created
+[2024-11-08 14:01:08.993] >>> Trace was selected
+[2024-11-08 14:01:10.795] >>> Trace was selected
+[2024-11-08 14:01:14.883] >>> csv file was selected
+[2024-11-08 14:01:15.601] >>> csv file was selected
+[2024-11-08 14:01:17.932] >>> csv file was selected
+[2024-11-08 14:01:19.192] >>> Trace was selected
+[2024-11-08 14:01:19.222] >>> Charts grid was created
+[2024-11-08 14:01:19.302] >>> Spectral char was created
+[2024-11-08 14:01:20.506] >>> Trace was selected
+[2024-11-08 14:01:22.332] >>> Trace was selected
+[2024-11-08 14:01:39.602] >>> csv file was selected
+[2024-12-08 14:01:09.692] >>> Trace was selected
+[2024-12-08 14:01:11.882] >>> Trace was selected
+[2024-12-08 14:01:19.192] >>> FFT chart was created
+[2024-12-08 14:01:28.352] >>> IFFT chart was created
+[2024-12-08 14:01:33.172] >>> Trace was selected
+[2024-12-08 14:01:34.128] >>> Trace was selected
+[2024-12-08 14:01:35.003] >>> Trace was selected
+[2024-01-09 10:01:27.380] >>> English language was selected
+[2024-01-09 10:01:29.220] >>> Reading language is succesful
+[2024-02-09 10:01:09.345] >>> csv file was selected
+[2024-02-09 10:01:12.269] >>> csv file was selected
+[2024-02-09 10:01:12.859] >>> csv file was selected
+[2024-02-09 10:01:13.482] >>> csv file was selected
+[2024-06-09 10:01:11.825] >>> csv file was selected
+[2024-06-09 10:01:13.596] >>> csv file was selected
+[2024-06-09 10:01:19.226] >>> csv file was selected
+[2024-06-09 10:01:19.856] >>> csv file was selected
+[2024-06-09 10:01:32.682] >>> csv file was selected
+[2024-06-09 10:01:34.458] >>> Trace was selected
+[2024-06-09 10:01:34.491] >>> Charts grid was created
+[2024-06-09 10:01:35.274] >>> Spectral char was created
+[2024-06-09 10:01:44.399] >>> Trace was selected
+[2024-06-09 10:01:48.142] >>> Trace was selected
+[2024-06-09 10:01:49.239] >>> Trace was selected
+[2024-06-09 10:01:51.030] >>> Trace was selected
+[2024-06-09 10:01:53.223] >>> Trace was selected
+[2024-06-09 10:01:54.210] >>> Trace was selected
+[2024-06-09 10:01:55.222] >>> Trace was selected
+[2024-06-09 10:01:56.211] >>> Trace was selected
+[2024-07-09 10:01:00.152] >>> Trace was selected
+[2024-07-09 10:01:01.103] >>> Trace was selected
+[2024-07-09 10:01:02.048] >>> Trace was selected
+[2024-07-09 10:01:03.124] >>> Trace was selected
+[2024-07-09 10:01:05.076] >>> csv file was selected
+[2024-07-09 10:01:11.423] >>> csv file was selected
+[2024-26-09 10:01:14.516] >>> English language was selected
+[2024-26-09 10:01:16.931] >>> Reading language is succesful
+[2024-28-09 10:01:29.049] >>> csv file was selected
+[2024-28-09 10:01:31.720] >>> csv file was selected
+[2024-29-09 10:01:56.877] >>> Trace was selected
+[2024-29-09 10:01:57.933] >>> Trace was selected
+[2024-29-09 10:01:57.997] >>> Charts grid was created
+[2024-29-09 10:01:58.715] >>> Spectral char was created
+[2024-30-09 10:01:03.013] >>> Trace was selected
+[2024-30-09 10:01:03.942] >>> Trace was selected
+[2024-30-09 10:01:03.982] >>> Charts grid was created
+[2024-30-09 10:01:04.040] >>> Spectral char was created
+[2024-30-09 10:01:05.448] >>> Trace was selected
+[2024-30-09 10:01:06.438] >>> Trace was selected
+[2024-30-09 10:01:06.478] >>> Charts grid was created
+[2024-30-09 10:01:06.527] >>> Spectral char was created
+[2024-30-09 10:01:07.799] >>> Trace was selected
+[2024-30-09 10:01:09.992] >>> csv file was selected
+[2024-30-09 10:01:11.285] >>> csv file was selected
+[2024-30-09 10:01:12.525] >>> csv file was selected
+[2024-30-09 10:01:14.390] >>> csv file was selected
+[2024-30-09 10:01:14.981] >>> csv file was selected
+[2024-30-09 10:01:15.527] >>> csv file was selected
+[2024-30-09 10:01:19.843] >>> Trace was selected
+[2024-30-09 10:01:19.857] >>> Charts grid was created
+[2024-30-09 10:01:19.890] >>> Spectral char was created
+[2024-30-09 10:01:21.330] >>> Trace was selected
+[2024-30-09 10:01:23.630] >>> csv file was selected
+[2024-30-09 10:01:54.293] >>> Trace was selected
+[2024-30-09 10:01:54.312] >>> Charts grid was created
+[2024-30-09 10:01:54.387] >>> Spectral char was created
+[2024-31-09 10:01:16.209] >>> Trace was selected
+[2024-31-09 10:01:17.287] >>> Trace was selected
+[2024-31-09 10:01:17.320] >>> Charts grid was created
+[2024-31-09 10:01:17.338] >>> Spectral char was created
+[2024-31-09 10:01:22.124] >>> Trace was selected
+[2024-31-09 10:01:22.361] >>> Trace was selected
+[2024-31-09 10:01:22.402] >>> Charts grid was created
+[2024-31-09 10:01:22.422] >>> Spectral char was created
+[2024-31-09 10:01:23.881] >>> Trace was selected
+[2024-31-09 10:01:25.332] >>> Trace was selected
+[2024-31-09 10:01:29.945] >>> csv file was selected
+[2024-31-09 10:01:31.784] >>> csv file was selected
+[2024-31-09 10:01:35.189] >>> csv file was selected
+[2024-32-09 10:01:17.497] >>> Trace was selected
+[2024-32-09 10:01:17.508] >>> Charts grid was created
+[2024-32-09 10:01:17.531] >>> Spectral char was created
+[2024-32-09 10:01:19.570] >>> Trace was selected
+[2024-32-09 10:01:20.552] >>> Trace was selected
+[2024-32-09 10:01:20.586] >>> Charts grid was created
+[2024-32-09 10:01:20.609] >>> Spectral char was created
+[2024-32-09 10:01:21.902] >>> Trace was selected
+[2024-32-09 10:01:23.170] >>> Trace was selected
+[2024-32-09 10:01:23.206] >>> Charts grid was created
+[2024-32-09 10:01:23.227] >>> Spectral char was created
+[2024-32-09 10:01:24.521] >>> Trace was selected
+[2024-32-09 10:01:27.537] >>> csv file was selected
+[2024-32-09 10:01:28.562] >>> csv file was selected
+[2024-32-09 10:01:45.965] >>> Trace was selected
+[2024-32-09 10:01:48.014] >>> csv file was selected
+[2024-34-09 10:01:39.014] >>> Trace was selected
+[2024-34-09 10:01:39.030] >>> Charts grid was created
+[2024-34-09 10:01:39.052] >>> Spectral char was created
+[2024-34-09 10:01:40.462] >>> Trace was selected
+[2024-34-09 10:01:41.589] >>> Trace was selected
+[2024-34-09 10:01:41.620] >>> Charts grid was created
+[2024-34-09 10:01:41.640] >>> Spectral char was created
+[2024-34-09 10:01:43.335] >>> Trace was selected
+[2024-34-09 10:01:46.051] >>> csv file was selected
+[2024-34-09 10:01:47.157] >>> csv file was selected
+[2024-34-09 10:01:52.838] >>> Trace was selected
+[2024-34-09 10:01:52.852] >>> Charts grid was created
+[2024-34-09 10:01:52.877] >>> Spectral char was created
+[2024-34-09 10:01:54.188] >>> Trace was selected
+[2024-34-09 10:01:55.444] >>> Trace was selected
+[2024-34-09 10:01:55.483] >>> Charts grid was created
+[2024-34-09 10:01:55.501] >>> Spectral char was created
+[2024-34-09 10:01:56.721] >>> Trace was selected
+[2024-34-09 10:01:58.050] >>> Trace was selected
+[2024-34-09 10:01:58.091] >>> Charts grid was created
+[2024-34-09 10:01:58.111] >>> Spectral char was created
+[2024-34-09 10:01:59.758] >>> Trace was selected
+[2024-35-09 10:01:00.897] >>> Trace was selected
+[2024-35-09 10:01:02.251] >>> Trace was selected
+[2024-35-09 10:01:03.802] >>> Trace was selected
+[2024-35-09 10:01:04.764] >>> csv file was selected
+[2024-36-09 10:01:09.253] >>> Trace was selected
+[2024-36-09 10:01:09.267] >>> Charts grid was created
+[2024-36-09 10:01:09.288] >>> Spectral char was created
+[2024-36-09 10:01:10.381] >>> Trace was selected
+[2024-36-09 10:01:11.680] >>> Trace was selected
+[2024-36-09 10:01:11.716] >>> Charts grid was created
+[2024-36-09 10:01:11.735] >>> Spectral char was created
+[2024-36-09 10:01:13.041] >>> Trace was selected
+[2024-36-09 10:01:14.152] >>> Trace was selected
+[2024-36-09 10:01:14.189] >>> Charts grid was created
+[2024-36-09 10:01:14.208] >>> Spectral char was created
+[2024-36-09 10:01:16.747] >>> Trace was selected
+[2024-41-09 10:01:31.289] >>> Trace was selected
+[2024-41-09 10:01:31.325] >>> Charts grid was created
+[2024-41-09 10:01:31.351] >>> Spectral char was created
+[2024-41-09 10:01:32.174] >>> Trace was selected
+[2024-41-09 10:01:33.860] >>> csv file was selected
+[2024-41-09 10:01:34.637] >>> csv file was selected
+[2024-41-09 10:01:35.881] >>> csv file was selected
+[2024-41-09 10:01:36.834] >>> csv file was selected
+[2024-41-09 10:01:37.937] >>> csv file was selected
+[2024-41-09 10:01:39.247] >>> csv file was selected
+[2024-41-09 10:01:41.496] >>> csv file was selected
+[2024-51-09 10:01:14.436] >>> csv file was selected
+[2024-15-09 11:01:01.563] >>> Trace was selected
+[2024-15-09 11:01:01.576] >>> Charts grid was created
+[2024-15-09 11:01:01.599] >>> Spectral char was created
+[2024-15-09 11:01:02.724] >>> Trace was selected
+[2024-15-09 11:01:03.756] >>> Trace was selected
+[2024-15-09 11:01:04.661] >>> Trace was selected
+[2024-15-09 11:01:04.696] >>> Charts grid was created
+[2024-15-09 11:01:04.714] >>> Spectral char was created
+[2024-15-09 11:01:05.792] >>> Trace was selected
+[2024-15-09 11:01:07.079] >>> csv file was selected
+[2024-15-09 11:01:08.437] >>> csv file was selected
+[2024-15-09 11:01:10.246] >>> csv file was selected
+[2024-15-09 11:01:50.292] >>> Trace was selected
+[2024-15-09 11:01:50.304] >>> Charts grid was created
+[2024-15-09 11:01:50.323] >>> Spectral char was created
+[2024-15-09 11:01:51.600] >>> Trace was selected
+[2024-15-09 11:01:52.770] >>> Trace was selected
+[2024-15-09 11:01:52.804] >>> Charts grid was created
+[2024-15-09 11:01:52.828] >>> Spectral char was created
+[2024-15-09 11:01:53.668] >>> Trace was selected
+[2024-15-09 11:01:54.870] >>> Trace was selected
+[2024-15-09 11:01:54.905] >>> Charts grid was created
+[2024-15-09 11:01:54.922] >>> Spectral char was created
+[2024-15-09 11:01:55.812] >>> Trace was selected
+[2024-15-09 11:01:58.011] >>> csv file was selected
+[2024-15-09 11:01:59.049] >>> csv file was selected
+[2024-16-09 11:01:00.677] >>> Trace was selected
+[2024-16-09 11:01:00.689] >>> Charts grid was created
+[2024-16-09 11:01:00.709] >>> Spectral char was created
+[2024-16-09 11:01:02.286] >>> Trace was selected
+[2024-16-09 11:01:03.872] >>> Trace was selected
+[2024-16-09 11:01:03.918] >>> Charts grid was created
+[2024-16-09 11:01:03.937] >>> Spectral char was created
+[2024-16-09 11:01:05.206] >>> Trace was selected
+[2024-16-09 11:01:06.470] >>> Trace was selected
+[2024-16-09 11:01:06.506] >>> Charts grid was created
+[2024-16-09 11:01:06.527] >>> Spectral char was created
+[2024-16-09 11:01:07.725] >>> Trace was selected
+[2024-16-09 11:01:10.981] >>> csv file was selected
+[2024-16-09 11:01:16.700] >>> csv file was selected
+[2024-16-09 11:01:17.762] >>> Trace was selected
+[2024-16-09 11:01:54.691] >>> csv file was selected
+[2024-16-09 11:01:55.869] >>> csv file was selected
+[2024-37-09 13:01:15.991] >>> English language was selected
+[2024-37-09 13:01:16.254] >>> Reading language is succesful
+[2024-37-09 13:01:54.494] >>> csv file was selected
+[2024-37-09 13:01:57.697] >>> Trace was selected
+[2024-37-09 13:01:57.714] >>> Charts grid was created
+[2024-37-09 13:01:57.759] >>> Spectral char was created
+[2024-37-09 13:01:59.445] >>> Trace was selected
+[2024-38-09 13:01:01.433] >>> Trace was selected
+[2024-38-09 13:01:03.467] >>> csv file was selected
+[2024-38-09 13:01:30.568] >>> Trace was selected
+[2024-38-09 13:01:30.582] >>> Charts grid was created
+[2024-38-09 13:01:30.600] >>> Spectral char was created
+[2024-38-09 13:01:32.126] >>> Trace was selected
+[2024-38-09 13:01:33.393] >>> Trace was selected
+[2024-38-09 13:01:33.425] >>> Charts grid was created
+[2024-38-09 13:01:33.441] >>> Spectral char was created
+[2024-38-09 13:01:39.948] >>> Trace was selected
+[2024-38-09 13:01:42.403] >>> Trace was selected
+[2024-38-09 13:01:43.949] >>> Trace was selected
+[2024-38-09 13:01:45.069] >>> Trace was selected
+[2024-38-09 13:01:47.219] >>> Trace was selected
+[2024-38-09 13:01:48.118] >>> Trace was selected
+[2024-38-09 13:01:48.151] >>> Charts grid was created
+[2024-38-09 13:01:48.166] >>> Spectral char was created
+[2024-38-09 13:01:49.120] >>> Trace was selected
+[2024-38-09 13:01:52.058] >>> csv file was selected
+[2024-38-09 13:01:54.112] >>> csv file was selected
+[2024-38-09 13:01:56.929] >>> csv file was selected
+[2024-39-09 13:01:29.998] >>> Trace was selected
+[2024-39-09 13:01:32.127] >>> Trace was selected
+[2024-39-09 13:01:32.168] >>> Charts grid was created
+[2024-39-09 13:01:32.189] >>> Spectral char was created
+[2024-39-09 13:01:34.466] >>> Trace was selected
+[2024-39-09 13:01:35.790] >>> Trace was selected
+[2024-39-09 13:01:35.824] >>> Charts grid was created
+[2024-39-09 13:01:35.840] >>> Spectral char was created
+[2024-39-09 13:01:36.810] >>> Trace was selected
+[2024-39-09 13:01:38.299] >>> Trace was selected
+[2024-39-09 13:01:38.331] >>> Charts grid was created
+[2024-39-09 13:01:38.335] >>> Spectral char was created
+[2024-39-09 13:01:39.622] >>> Trace was selected
+[2024-39-09 13:01:41.589] >>> csv file was selected
+[2024-39-09 13:01:44.033] >>> Trace was selected
+[2024-39-09 13:01:44.048] >>> Charts grid was created
+[2024-39-09 13:01:44.061] >>> Spectral char was created
+[2024-39-09 13:01:45.951] >>> Trace was selected
+[2024-39-09 13:01:47.541] >>> Trace was selected
+[2024-39-09 13:01:47.574] >>> Charts grid was created
+[2024-39-09 13:01:47.581] >>> Spectral char was created
+[2024-39-09 13:01:48.946] >>> Trace was selected
+[2024-39-09 13:01:53.165] >>> Trace was selected
+[2024-39-09 13:01:55.892] >>> Trace was selected
+[2024-39-09 13:01:55.928] >>> Charts grid was created
+[2024-39-09 13:01:55.943] >>> Spectral char was created
+[2024-39-09 13:01:58.080] >>> Trace was selected
+[2024-39-09 13:01:59.502] >>> csv file was selected
+[2024-40-09 13:01:01.914] >>> Trace was selected
+[2024-40-09 13:01:01.925] >>> Charts grid was created
+[2024-40-09 13:01:01.943] >>> Spectral char was created
+[2024-40-09 13:01:03.117] >>> Trace was selected
+[2024-40-09 13:01:05.714] >>> csv file was selected
+[2024-40-09 13:01:07.350] >>> Trace was selected
+[2024-40-09 13:01:07.361] >>> Charts grid was created
+[2024-40-09 13:01:07.379] >>> Spectral char was created
+[2024-40-09 13:01:09.650] >>> Trace was selected
+[2024-40-09 13:01:11.789] >>> Trace was selected
+[2024-40-09 13:01:11.934] >>> Charts grid was created
+[2024-40-09 13:01:11.966] >>> Spectral char was created
+[2024-40-09 13:01:13.328] >>> Trace was selected
+[2024-40-09 13:01:15.307] >>> Trace was selected
+[2024-40-09 13:01:15.339] >>> Charts grid was created
+[2024-40-09 13:01:15.346] >>> Spectral char was created
+[2024-40-09 13:01:16.258] >>> Trace was selected
+[2024-40-09 13:01:18.180] >>> Trace was selected
+[2024-40-09 13:01:18.210] >>> Charts grid was created
+[2024-40-09 13:01:18.232] >>> Spectral char was created
+[2024-40-09 13:01:19.432] >>> Trace was selected
+[2024-40-09 13:01:20.948] >>> Trace was selected
+[2024-40-09 13:01:20.983] >>> Charts grid was created
+[2024-40-09 13:01:20.999] >>> Spectral char was created
+[2024-40-09 13:01:22.910] >>> Trace was selected
+[2024-40-09 13:01:25.896] >>> Trace was selected
+[2024-40-09 13:01:25.919] >>> Charts grid was created
+[2024-40-09 13:01:25.947] >>> Spectral char was created
+[2024-40-09 13:01:27.060] >>> Trace was selected
+[2024-40-09 13:01:28.640] >>> Trace was selected
+[2024-40-09 13:01:28.671] >>> Charts grid was created
+[2024-40-09 13:01:28.687] >>> Spectral char was created
+[2024-40-09 13:01:29.512] >>> Trace was selected
+[2024-40-09 13:01:30.596] >>> Trace was selected
+[2024-40-09 13:01:30.627] >>> Charts grid was created
+[2024-40-09 13:01:30.642] >>> Spectral char was created
+[2024-40-09 13:01:31.616] >>> Trace was selected
+[2024-40-09 13:01:32.653] >>> Trace was selected
+[2024-40-09 13:01:32.680] >>> Charts grid was created
+[2024-40-09 13:01:32.695] >>> Spectral char was created
+[2024-40-09 13:01:33.716] >>> Trace was selected
+[2024-40-09 13:01:35.379] >>> Trace was selected
+[2024-40-09 13:01:35.407] >>> Charts grid was created
+[2024-40-09 13:01:35.423] >>> Spectral char was created
+[2024-40-09 13:01:36.101] >>> Trace was selected
+[2024-40-09 13:01:37.565] >>> Trace was selected
+[2024-40-09 13:01:37.594] >>> Charts grid was created
+[2024-40-09 13:01:37.610] >>> Spectral char was created
+[2024-40-09 13:01:38.401] >>> Trace was selected
+[2024-40-09 13:01:40.025] >>> Trace was selected
+[2024-40-09 13:01:40.054] >>> Charts grid was created
+[2024-40-09 13:01:40.074] >>> Spectral char was created
+[2024-40-09 13:01:40.865] >>> Trace was selected
+[2024-40-09 13:01:42.543] >>> Trace was selected
+[2024-40-09 13:01:42.574] >>> Charts grid was created
+[2024-40-09 13:01:42.592] >>> Spectral char was created
+[2024-40-09 13:01:43.366] >>> Trace was selected
+[2024-40-09 13:01:45.395] >>> Trace was selected
+[2024-40-09 13:01:45.427] >>> Charts grid was created
+[2024-40-09 13:01:45.438] >>> Spectral char was created
+[2024-40-09 13:01:46.021] >>> Trace was selected
+[2024-40-09 13:01:47.686] >>> csv file was selected
+[2024-40-09 13:01:48.760] >>> csv file was selected
+[2024-40-09 13:01:50.109] >>> Trace was selected
+[2024-40-09 13:01:50.119] >>> Charts grid was created
+[2024-40-09 13:01:50.137] >>> Spectral char was created
+[2024-40-09 13:01:53.253] >>> csv file was selected
+[2024-40-09 13:01:55.362] >>> csv file was selected
+[2024-41-09 13:01:00.743] >>> Trace was selected
+[2024-41-09 13:01:05.242] >>> Trace was selected
+[2024-41-09 13:01:08.280] >>> Trace was selected
+[2024-41-09 13:01:10.267] >>> Trace was selected
+[2024-41-09 13:01:10.301] >>> Charts grid was created
+[2024-41-09 13:01:10.311] >>> Spectral char was created
+[2024-41-09 13:01:12.086] >>> Trace was selected
+[2024-41-09 13:01:13.795] >>> csv file was selected
+[2024-41-09 13:01:15.707] >>> Trace was selected
+[2024-41-09 13:01:15.719] >>> Charts grid was created
+[2024-41-09 13:01:15.737] >>> Spectral char was created
+[2024-41-09 13:01:19.546] >>> csv file was selected
+[2024-42-09 13:01:17.467] >>> Trace was selected
+[2024-42-09 13:01:18.510] >>> Trace was selected
+[2024-42-09 13:01:19.932] >>> Trace was selected
+[2024-42-09 13:01:19.964] >>> Charts grid was created
+[2024-42-09 13:01:19.980] >>> Spectral char was created
+[2024-42-09 13:01:21.165] >>> Trace was selected
+[2024-42-09 13:01:21.967] >>> Trace was selected
+[2024-42-09 13:01:21.999] >>> Charts grid was created
+[2024-42-09 13:01:22.001] >>> Spectral char was created
+[2024-42-09 13:01:35.091] >>> Trace was selected
+[2024-42-09 13:01:36.807] >>> Trace was selected
+[2024-42-09 13:01:38.051] >>> Trace was selected
+[2024-42-09 13:01:38.082] >>> Charts grid was created
+[2024-42-09 13:01:38.098] >>> Spectral char was created
+[2024-42-09 13:01:39.418] >>> Trace was selected
+[2024-42-09 13:01:41.105] >>> Trace was selected
+[2024-42-09 13:01:41.138] >>> Charts grid was created
+[2024-42-09 13:01:41.143] >>> Spectral char was created
+[2024-42-09 13:01:42.516] >>> Trace was selected
+[2024-42-09 13:01:44.249] >>> csv file was selected
+[2024-42-09 13:01:46.878] >>> Trace was selected
+[2024-42-09 13:01:46.892] >>> Charts grid was created
+[2024-42-09 13:01:46.909] >>> Spectral char was created
+[2024-42-09 13:01:49.681] >>> Trace was selected
+[2024-42-09 13:01:52.082] >>> csv file was selected
+[2024-42-09 13:01:53.545] >>> Trace was selected
+[2024-42-09 13:01:53.556] >>> Charts grid was created
+[2024-42-09 13:01:53.574] >>> Spectral char was created
+[2024-42-09 13:01:55.166] >>> Trace was selected
+[2024-47-16 11:01:31.001] >>> English language was selected
+[2024-47-16 11:01:33.610] >>> Reading language is succesful
+[2024-48-16 11:01:21.875] >>> csv file was selected
+[2024-48-16 11:01:23.789] >>> Trace was selected
+[2024-48-16 11:01:25.034] >>> Trace was selected
+[2024-48-16 11:01:26.266] >>> Trace was selected
+[2024-48-16 11:01:33.148] >>> csv file was selected
+[2024-48-16 11:01:50.003] >>> Trace was selected
+[2024-48-16 11:01:50.033] >>> Charts grid was created
+[2024-48-16 11:01:50.817] >>> Spectral char was created
+[2024-49-16 11:01:38.947] >>> csv file was selected
+[2024-49-16 11:01:46.880] >>> Trace was selected
+[2024-49-16 11:01:49.128] >>> Trace was selected
+[2024-50-16 11:01:09.978] >>> csv file was selected
+[2024-50-16 11:01:12.179] >>> csv file was selected
+[2024-52-16 11:01:30.728] >>> Trace was selected
+[2024-52-16 11:01:34.173] >>> Trace was selected
+[2024-52-16 11:01:37.700] >>> Trace was selected
+[2024-52-16 11:01:39.455] >>> Trace was selected
+[2024-52-16 11:01:40.433] >>> Trace was selected
+[2024-52-16 11:01:44.195] >>> Trace was selected
+[2024-52-16 11:01:46.730] >>> Trace was selected
+[2024-52-16 11:01:47.385] >>> Trace was selected
+[2024-52-16 11:01:47.398] >>> Charts grid was created
+[2024-52-16 11:01:47.449] >>> Spectral char was created
+[2024-52-16 11:01:49.460] >>> Trace was selected
+[2024-52-16 11:01:51.221] >>> Trace was selected
+[2024-52-16 11:01:52.443] >>> Trace was selected
+[2024-52-16 11:01:53.469] >>> Trace was selected
+[2024-52-16 11:01:55.437] >>> Trace was selected
+[2024-52-16 11:01:56.090] >>> Trace was selected
+[2024-52-16 11:01:56.696] >>> Trace was selected
+[2024-52-16 11:01:56.707] >>> Charts grid was created
+[2024-52-16 11:01:56.749] >>> Spectral char was created
+[2024-52-16 11:01:57.552] >>> Trace was selected
+[2024-52-16 11:01:58.239] >>> Trace was selected
+[2024-52-16 11:01:58.834] >>> Trace was selected
+[2024-52-16 11:01:59.253] >>> Trace was selected
+[2024-52-16 11:01:59.267] >>> Charts grid was created
+[2024-52-16 11:01:59.288] >>> Spectral char was created
+[2024-53-16 11:01:07.096] >>> Trace was selected
+[2024-53-16 11:01:09.007] >>> Trace was selected
+[2024-53-16 11:01:09.026] >>> Charts grid was created
+[2024-53-16 11:01:09.078] >>> Spectral char was created
+[2024-53-16 11:01:11.868] >>> Trace was selected
+[2024-53-16 11:01:12.711] >>> Trace was selected
+[2024-53-16 11:01:12.722] >>> Charts grid was created
+[2024-53-16 11:01:12.740] >>> Spectral char was created
+[2024-53-16 11:01:25.239] >>> csv file was selected
+[2024-58-30 09:01:34.765] >>> English language was selected
+[2024-58-30 09:01:37.219] >>> Reading language is succesful
+[2024-52-11 15:02:09.527] >>> English language was selected
+[2024-52-11 15:02:13.490] >>> Reading language is succesful
+[2024-53-11 15:02:45.066] >>> csv file was selected
+[2024-55-11 15:02:13.991] >>> English language was selected
+[2024-55-11 15:02:14.179] >>> Reading language is succesful
+[2024-57-11 15:02:48.491] >>> English language was selected
+[2024-57-11 15:02:48.593] >>> Reading language is succesful
+[2024-58-11 15:02:51.338] >>> csv file was selected
+[2024-58-11 15:02:55.159] >>> csv file was selected
+[2024-58-11 15:02:57.723] >>> csv file was selected
+[2024-01-11 16:02:30.699] >>> English language was selected
+[2024-01-11 16:02:30.785] >>> Reading language is succesful
+[2024-02-11 16:02:09.485] >>> English language was selected
+[2024-02-11 16:02:09.705] >>> Reading language is succesful
+[2024-02-11 16:02:34.365] >>> English language was selected
+[2024-02-11 16:02:34.401] >>> Reading language is succesful
+[2024-03-11 16:02:13.538] >>> csv file was selected
+[2024-03-11 16:02:14.891] >>> Trace was selected
+[2024-03-11 16:02:16.416] >>> Trace was selected
+[2024-03-11 16:02:16.510] >>> Charts grid was created
+[2024-03-11 16:02:17.353] >>> Spectral char was created
+[2024-03-11 16:02:18.635] >>> Trace was selected
+[2024-03-11 16:02:19.097] >>> Trace was selected
+[2024-03-11 16:02:22.370] >>> Trace was selected
+[2024-03-11 16:02:29.938] >>> Trace was selected
+[2024-03-11 16:02:30.757] >>> Trace was selected
+[2024-03-11 16:02:36.458] >>> Trace was selected
+[2024-03-11 16:02:40.576] >>> Trace was selected
+[2024-03-11 16:02:41.959] >>> Trace was selected
+[2024-03-11 16:02:47.492] >>> csv file was selected
+[2024-04-11 16:02:34.539] >>> Trace was selected
+[2024-04-11 16:02:35.077] >>> Trace was selected
+[2024-04-11 16:02:35.554] >>> Trace was selected
+[2024-04-11 16:02:36.084] >>> Trace was selected
+[2024-04-11 16:02:43.265] >>> Trace was selected
+[2024-04-11 16:02:44.561] >>> Trace was selected
+[2024-08-11 16:02:26.898] >>> English language was selected
+[2024-08-11 16:02:27.015] >>> Reading language is succesful
+[2024-08-11 16:02:40.722] >>> csv file was selected
+[2024-08-11 16:02:40.765] >>> Charts grid was created
+[2024-08-11 16:02:40.905] >>> Spectral char was created
+[2024-14-11 16:02:07.221] >>> English language was selected
+[2024-14-11 16:02:07.296] >>> Reading language is succesful
+[2024-14-11 16:02:20.231] >>> csv file was selected
+[2024-14-11 16:02:20.256] >>> Charts grid was created
+[2024-14-11 16:02:20.347] >>> Spectral char was created
+[2024-17-11 16:02:07.259] >>> English language was selected
+[2024-17-11 16:02:07.308] >>> Reading language is succesful
+[2024-17-11 16:02:20.889] >>> csv file was selected
+[2024-17-11 16:02:20.931] >>> Charts grid was created
+[2024-17-11 16:02:20.994] >>> Spectral char was created
+[2024-20-11 16:02:31.884] >>> English language was selected
+[2024-20-11 16:02:31.920] >>> Reading language is succesful
+[2024-20-11 16:02:45.247] >>> csv file was selected
+[2024-20-11 16:02:45.278] >>> Charts grid was created
+[2024-20-11 16:02:45.392] >>> Spectral char was created
+[2024-20-11 16:02:56.055] >>> English language was selected
+[2024-20-11 16:02:56.119] >>> Reading language is succesful
+[2024-21-11 16:02:27.352] >>> English language was selected
+[2024-21-11 16:02:27.374] >>> Reading language is succesful
+[2024-22-11 16:02:53.465] >>> csv file was selected
+[2024-22-11 16:02:54.985] >>> csv file was selected
+[2024-23-11 16:02:21.949] >>> csv file was selected
+[2024-23-11 16:02:22.619] >>> csv file was selected
+[2024-23-11 16:02:58.448] >>> Trace was selected
+[2024-23-11 16:02:58.594] >>> Charts grid was created
+[2024-23-11 16:02:58.675] >>> Spectral char was created
+[2024-23-11 16:02:59.180] >>> Trace was selected
+[2024-24-11 16:02:00.065] >>> Trace was selected
+[2024-24-11 16:02:03.495] >>> Trace was selected
+[2024-24-11 16:02:06.041] >>> Trace was selected
+[2024-24-11 16:02:07.878] >>> Trace was selected
+[2024-24-11 16:02:10.331] >>> Trace was selected
+[2024-24-11 16:02:11.131] >>> Trace was selected
+[2024-24-11 16:02:11.768] >>> Trace was selected
+[2024-24-11 16:02:17.225] >>> Trace was selected
+[2024-24-11 16:02:17.896] >>> Trace was selected
+[2024-24-11 16:02:18.679] >>> Trace was selected
+[2024-24-11 16:02:19.494] >>> Trace was selected
+[2024-24-11 16:02:23.037] >>> csv file was selected
+[2024-24-11 16:02:26.174] >>> Trace was selected
+[2024-24-11 16:02:26.605] >>> Trace was selected
+[2024-24-11 16:02:27.398] >>> Trace was selected
+[2024-24-11 16:02:31.759] >>> csv file was selected
+[2024-24-11 16:02:53.474] >>> Trace was selected
+[2024-24-11 16:02:53.490] >>> Charts grid was created
+[2024-24-11 16:02:53.529] >>> Spectral char was created
+[2024-24-11 16:02:54.243] >>> Trace was selected
+[2024-24-11 16:02:54.998] >>> Trace was selected
+[2024-24-11 16:02:59.292] >>> Trace was selected
+[2024-25-11 16:02:00.087] >>> Trace was selected
+[2024-25-11 16:02:00.687] >>> Trace was selected
+[2024-25-11 16:02:02.306] >>> Trace was selected
+[2024-25-11 16:02:02.348] >>> Charts grid was created
+[2024-25-11 16:02:02.372] >>> Spectral char was created
+[2024-25-11 16:02:05.397] >>> Trace was selected
+[2024-25-11 16:02:07.685] >>> Trace was selected
+[2024-25-11 16:02:10.124] >>> Trace was selected
+[2024-25-11 16:02:18.506] >>> Trace was selected
+[2024-25-11 16:02:19.416] >>> Trace was selected
+[2024-25-11 16:02:20.624] >>> Trace was selected
+[2024-25-11 16:02:32.023] >>> Trace was selected
+[2024-25-11 16:02:32.724] >>> Trace was selected
+[2024-25-11 16:02:33.246] >>> Trace was selected
+[2024-25-11 16:02:34.004] >>> Trace was selected
+[2024-25-11 16:02:35.745] >>> Trace was selected
+[2024-25-11 16:02:36.713] >>> Trace was selected
+[2024-26-11 16:02:36.065] >>> Trace was selected
+[2024-26-11 16:02:36.666] >>> Trace was selected
+[2024-27-11 16:02:30.110] >>> Trace was selected
+[2024-27-11 16:02:31.131] >>> Trace was selected
+[2024-27-11 16:02:31.708] >>> Trace was selected
+[2024-26-17 16:02:20.709] >>> English language was selected
+[2024-26-17 16:02:22.839] >>> Reading language is succesful
+[2024-27-17 16:02:41.278] >>> English language was selected
+[2024-27-17 16:02:41.478] >>> Reading language is succesful
+[2024-28-17 16:02:32.510] >>> csv file was selected
+[2024-28-17 16:02:33.357] >>> csv file was selected
+[2024-28-17 16:02:34.038] >>> csv file was selected
+[2024-28-17 16:02:34.667] >>> csv file was selected
+[2024-28-17 16:02:35.164] >>> csv file was selected
+[2024-28-17 16:02:36.095] >>> csv file was selected
+[2024-28-17 16:02:36.599] >>> csv file was selected
+[2024-28-17 16:02:37.006] >>> csv file was selected
+[2024-28-17 16:02:37.842] >>> csv file was selected
+[2024-28-17 16:02:38.253] >>> csv file was selected
+[2024-28-17 16:02:39.456] >>> csv file was selected
+[2024-28-17 16:02:43.443] >>> csv file was selected
+[2024-31-17 16:02:35.450] >>> English language was selected
+[2024-31-17 16:02:35.611] >>> Reading language is succesful
+[2024-32-17 16:02:43.845] >>> English language was selected
+[2024-32-17 16:02:43.902] >>> Reading language is succesful
+[2024-33-17 16:02:31.432] >>> csv file was selected
+[2024-33-17 16:02:53.610] >>> csv file was selected
+[2024-34-17 16:02:17.456] >>> Trace was selected
+[2024-34-17 16:02:17.501] >>> Charts grid was created
+[2024-34-17 16:02:18.419] >>> Spectral char was created
+[2024-34-17 16:02:25.473] >>> csv file was selected
+[2024-34-17 16:02:35.468] >>> Trace was selected
+[2024-34-17 16:02:38.834] >>> csv file was selected
+[2024-34-17 16:02:44.271] >>> Trace was selected
+[2024-34-17 16:02:45.881] >>> Trace was selected
+[2024-34-17 16:02:47.124] >>> Trace was selected
+[2024-34-17 16:02:48.128] >>> Trace was selected
+[2024-34-17 16:02:49.614] >>> Trace was selected
+[2024-34-17 16:02:50.154] >>> csv file was selected
+[2024-35-17 16:02:14.590] >>> Trace was selected
+[2024-35-17 16:02:18.633] >>> Trace was selected
+[2024-35-17 16:02:19.498] >>> csv file was selected
+[2024-35-17 16:02:37.142] >>> Trace was selected
+[2024-35-17 16:02:37.587] >>> Trace was selected
+[2024-35-17 16:02:39.215] >>> Trace was selected
+[2024-35-17 16:02:49.775] >>> csv file was selected
+[2024-38-17 16:02:59.553] >>> csv file was selected
+[2024-41-17 16:02:21.631] >>> Trace was selected
+[2024-41-17 16:02:22.177] >>> Trace was selected
+[2024-41-17 16:02:26.261] >>> csv file was selected
+[2024-41-17 16:02:42.020] >>> Trace was selected
+[2024-41-17 16:02:42.583] >>> Trace was selected
+[2024-41-17 16:02:46.089] >>> csv file was selected
+[2024-42-17 16:02:14.472] >>> Trace was selected
+[2024-42-17 16:02:15.394] >>> Trace was selected
+[2024-42-17 16:02:17.136] >>> csv file was selected
+[2024-42-17 16:02:18.533] >>> csv file was selected
+[2024-42-17 16:02:19.825] >>> csv file was selected
+[2024-42-17 16:02:20.947] >>> csv file was selected
+[2024-42-17 16:02:21.741] >>> csv file was selected
+[2024-42-17 16:02:23.401] >>> csv file was selected
+[2024-42-17 16:02:24.524] >>> csv file was selected
+[2024-42-17 16:02:26.361] >>> csv file was selected
+[2024-42-17 16:02:34.517] >>> csv file was selected
+[2024-42-17 16:02:35.478] >>> csv file was selected
+[2024-42-17 16:02:36.965] >>> csv file was selected
+[2024-42-17 16:02:41.476] >>> csv file was selected
+[2024-43-17 16:02:19.977] >>> Trace was selected
+[2024-43-17 16:02:27.614] >>> csv file was selected
+[2024-43-17 16:02:46.310] >>> Trace was selected
+[2024-44-17 16:02:18.153] >>> Trace was selected
+[2024-44-17 16:02:19.048] >>> Trace was selected
+[2024-44-17 16:02:19.946] >>> Trace was selected
+[2024-44-17 16:02:21.133] >>> Trace was selected
+[2024-44-17 16:02:21.944] >>> Trace was selected
+[2024-44-17 16:02:22.718] >>> Trace was selected
+[2024-44-17 16:02:23.546] >>> Trace was selected
+[2024-44-17 16:02:24.300] >>> Trace was selected
+[2024-44-17 16:02:25.142] >>> Trace was selected
+[2024-44-17 16:02:26.112] >>> Trace was selected
+[2024-44-17 16:02:27.305] >>> Trace was selected
+[2024-44-17 16:02:29.894] >>> Trace was selected
+[2024-44-17 16:02:30.019] >>> Trace was selected
+[2024-44-17 16:02:30.741] >>> Trace was selected
+[2024-44-17 16:02:31.948] >>> Trace was selected
+[2024-44-17 16:02:33.025] >>> Trace was selected
+[2024-44-17 16:02:39.536] >>> Trace was selected
+[2024-44-17 16:02:40.983] >>> Trace was selected
+[2024-44-17 16:02:44.573] >>> Trace was selected
+[2024-44-17 16:02:45.448] >>> Trace was selected
+[2024-44-17 16:02:56.144] >>> Trace was selected
+[2024-44-17 16:02:57.601] >>> csv file was selected
+[2024-44-17 16:02:58.806] >>> csv file was selected
+[2024-45-17 16:02:00.486] >>> csv file was selected
+[2024-45-17 16:02:19.107] >>> Trace was selected
+[2024-46-17 16:02:56.078] >>> csv file was selected
+[2024-46-17 16:02:58.076] >>> csv file was selected
+[2024-46-17 16:02:59.334] >>> csv file was selected
+[2024-46-17 16:02:59.986] >>> csv file was selected
+[2024-47-17 16:02:00.703] >>> csv file was selected
+[2024-47-17 16:02:01.160] >>> csv file was selected
+[2024-47-17 16:02:01.826] >>> csv file was selected
+[2024-47-17 16:02:02.342] >>> csv file was selected
+[2024-47-17 16:02:03.599] >>> csv file was selected
+[2024-47-17 16:02:04.189] >>> csv file was selected
+[2024-47-17 16:02:04.948] >>> csv file was selected
+[2024-47-17 16:02:05.358] >>> csv file was selected
+[2024-48-17 16:02:08.876] >>> csv file was selected
+[2024-48-17 16:02:09.396] >>> csv file was selected
+[2024-48-17 16:02:14.220] >>> csv file was selected
+[2024-48-17 16:02:15.595] >>> csv file was selected
+[2024-48-17 16:02:16.793] >>> csv file was selected
+[2024-48-17 16:02:17.987] >>> csv file was selected
+[2024-48-17 16:02:40.445] >>> csv file was selected
+[2024-48-17 16:02:41.532] >>> csv file was selected
+[2024-48-17 16:02:58.786] >>> csv file was selected
+[2024-48-17 16:02:59.697] >>> csv file was selected
+[2024-49-17 16:02:23.181] >>> Trace was selected
+[2024-49-17 16:02:23.200] >>> Charts grid was created
+[2024-49-17 16:02:23.264] >>> Spectral char was created
+[2024-49-17 16:02:24.882] >>> Trace was selected
+[2024-49-17 16:02:26.526] >>> Trace was selected
+[2024-49-17 16:02:27.647] >>> csv file was selected
+[2024-49-17 16:02:31.249] >>> csv file was selected
+[2024-49-17 16:02:32.003] >>> csv file was selected
+[2024-49-17 16:02:32.498] >>> csv file was selected
+[2024-49-17 16:02:33.418] >>> csv file was selected
+[2024-49-17 16:02:34.134] >>> csv file was selected
+[2024-49-17 16:02:35.246] >>> csv file was selected
+[2024-49-17 16:02:37.609] >>> csv file was selected
+[2024-49-17 16:02:39.045] >>> csv file was selected
+[2024-50-17 16:02:00.438] >>> csv file was selected
+[2024-50-17 16:02:13.405] >>> Trace was selected
+[2024-50-17 16:02:15.148] >>> Trace was selected
+[2024-50-17 16:02:17.961] >>> Trace was selected
+[2024-50-17 16:02:19.234] >>> Trace was selected
+[2024-50-17 16:02:22.296] >>> Trace was selected
+[2024-50-17 16:02:23.923] >>> Trace was selected
+[2024-50-17 16:02:33.573] >>> csv file was selected
+[2024-50-17 16:02:34.956] >>> csv file was selected
+[2024-50-17 16:02:40.975] >>> csv file was selected
+[2024-52-17 16:02:00.068] >>> csv file was selected
+[2024-52-17 16:02:08.879] >>> csv file was selected
+[2024-52-17 16:02:12.087] >>> csv file was selected
+[2024-52-17 16:02:20.517] >>> csv file was selected
+[2024-52-17 16:02:30.039] >>> Trace was selected
+[2024-52-17 16:02:32.432] >>> Trace was selected
+[2024-52-17 16:02:36.544] >>> Trace was selected
+[2024-52-17 16:02:41.548] >>> Trace was selected
+[2024-52-17 16:02:46.793] >>> Trace was selected
+[2024-52-17 16:02:48.816] >>> Trace was selected
+[2024-52-17 16:02:51.198] >>> Trace was selected
+[2024-53-17 16:02:08.585] >>> Trace was selected
+[2024-53-17 16:02:10.194] >>> Trace was selected
+[2024-53-17 16:02:26.323] >>> Trace was selected
+[2024-53-17 16:02:52.025] >>> Trace was selected
+[2024-53-17 16:02:53.362] >>> Trace was selected
+[2024-54-17 16:02:00.176] >>> Trace was selected
+[2024-54-17 16:02:02.214] >>> Trace was selected
+[2024-54-17 16:02:05.838] >>> Trace was selected
+[2024-56-17 16:02:12.296] >>> Trace was selected
+[2024-56-17 16:02:14.560] >>> Trace was selected
+[2024-56-17 16:02:16.268] >>> Trace was selected
+[2024-56-17 16:02:16.312] >>> Charts grid was created
+[2024-56-17 16:02:16.371] >>> Spectral char was created
+[2024-56-17 16:02:45.007] >>> csv file was selected
+[2024-56-17 16:02:46.178] >>> csv file was selected
+[2024-57-17 16:02:50.722] >>> csv file was selected
+[2024-57-17 16:02:56.810] >>> csv file was selected
+[2024-57-17 16:02:58.155] >>> csv file was selected
+[2024-58-17 16:02:10.822] >>> Trace was selected
+[2024-58-17 16:02:10.839] >>> Charts grid was created
+[2024-58-17 16:02:10.876] >>> Spectral char was created
+[2024-58-17 16:02:11.870] >>> Trace was selected
+[2024-58-17 16:02:15.567] >>> csv file was selected
+[2024-58-17 16:02:16.393] >>> csv file was selected
+[2024-58-17 16:02:30.094] >>> csv file was selected
+[2024-58-17 16:02:32.324] >>> csv file was selected
+[2024-58-17 16:02:33.418] >>> csv file was selected
+[2024-58-17 16:02:47.836] >>> csv file was selected
+[2024-58-17 16:02:49.651] >>> csv file was selected
+[2024-59-17 16:02:07.993] >>> Trace was selected
+[2024-59-17 16:02:10.315] >>> Trace was selected
+[2024-59-17 16:02:13.176] >>> Trace was selected
+[2024-00-17 17:02:48.134] >>> Trace was selected
+[2024-00-17 17:02:52.215] >>> Trace was selected
+[2024-01-17 17:02:10.645] >>> Trace was selected
+[2024-01-17 17:02:41.914] >>> csv file was selected
+[2024-01-17 17:02:42.979] >>> csv file was selected
+[2024-01-17 17:02:43.644] >>> csv file was selected
+[2024-01-17 17:02:43.702] >>> Charts grid was created
+[2024-01-17 17:02:43.779] >>> Spectral char was created
+[2024-01-17 17:02:47.177] >>> csv file was selected
+[2024-01-17 17:02:48.564] >>> csv file was selected
+[2024-02-17 17:02:05.810] >>> Trace was selected
+[2024-02-17 17:02:05.827] >>> Charts grid was created
+[2024-02-17 17:02:05.853] >>> Spectral char was created
+[2024-02-17 17:02:09.586] >>> csv file was selected
+[2024-02-17 17:02:10.196] >>> csv file was selected
+[2024-02-17 17:02:30.935] >>> Trace was selected
+[2024-02-17 17:02:36.966] >>> csv file was selected
+[2024-02-17 17:02:38.616] >>> csv file was selected
+[2024-02-17 17:02:39.460] >>> csv file was selected
+[2024-03-17 17:02:19.738] >>> Trace was selected
+[2024-03-17 17:02:22.001] >>> csv file was selected
+[2024-03-17 17:02:23.466] >>> csv file was selected
+[2024-03-17 17:02:44.498] >>> Trace was selected
+[2024-03-17 17:02:46.730] >>> csv file was selected
+[2024-03-17 17:02:48.012] >>> Trace was selected
+[2024-03-17 17:02:48.562] >>> Trace was selected
+[2024-03-17 17:02:49.089] >>> Trace was selected
+[2024-03-17 17:02:50.256] >>> Trace was selected
+[2024-03-17 17:02:51.072] >>> Trace was selected
+[2024-03-17 17:02:51.115] >>> Charts grid was created
+[2024-03-17 17:02:51.147] >>> Spectral char was created
+[2024-03-17 17:02:53.277] >>> csv file was selected
+[2024-03-17 17:02:54.505] >>> Trace was selected
+[2024-03-17 17:02:55.297] >>> Trace was selected
+[2024-03-17 17:02:55.344] >>> Charts grid was created
+[2024-03-17 17:02:55.372] >>> Spectral char was created
+[2024-03-17 17:02:56.663] >>> Trace was selected
+[2024-03-17 17:02:58.037] >>> Trace was selected
+[2024-04-17 17:02:01.282] >>> Trace was selected
+[2024-04-17 17:02:07.058] >>> csv file was selected
+[2024-04-17 17:02:07.777] >>> csv file was selected
+[2024-04-17 17:02:14.582] >>> csv file was selected
+[2024-04-17 17:02:44.268] >>> Trace was selected
+[2024-04-17 17:02:45.257] >>> csv file was selected
+[2024-04-17 17:02:49.207] >>> csv file was selected
+[2024-05-17 17:02:06.300] >>> Trace was selected
+[2024-05-17 17:02:08.304] >>> csv file was selected
+[2024-05-17 17:02:14.205] >>> csv file was selected
+[2024-05-17 17:02:38.084] >>> Trace was selected
+[2024-06-17 17:02:10.997] >>> Trace was selected
+[2024-06-17 17:02:11.928] >>> Trace was selected
+[2024-06-17 17:02:23.438] >>> Trace was selected
+[2024-06-17 17:02:24.099] >>> Trace was selected
+[2024-06-17 17:02:26.312] >>> Trace was selected
+[2024-06-17 17:02:28.523] >>> Trace was selected
+[2024-06-17 17:02:31.494] >>> Trace was selected
+[2024-06-17 17:02:32.660] >>> Trace was selected
+[2024-06-17 17:02:42.886] >>> Trace was selected
+[2024-06-17 17:02:47.542] >>> Trace was selected
+[2024-06-17 17:02:56.041] >>> Trace was selected
+[2024-07-17 17:02:06.171] >>> Trace was selected
+[2024-07-17 17:02:14.975] >>> Trace was selected
+[2024-18-17 17:02:11.160] >>> English language was selected
+[2024-18-17 17:02:11.328] >>> Reading language is succesful
+[2024-21-17 17:02:11.881] >>> csv file was selected
+[2024-30-17 17:02:32.246] >>> csv file was selected
+[2024-30-17 17:02:52.828] >>> Trace was selected
+[2024-30-17 17:02:52.848] >>> Charts grid was created
+[2024-30-17 17:02:52.876] >>> Spectral char was created
+[2024-30-17 17:02:54.314] >>> csv file was selected
+[2024-30-17 17:02:57.192] >>> csv file was selected
+[2024-30-17 17:02:58.985] >>> Trace was selected
+[2024-31-17 17:02:00.831] >>> Trace was selected
+[2024-31-17 17:02:01.262] >>> csv file was selected
+[2024-31-17 17:02:14.184] >>> Trace was selected
+[2024-31-17 17:02:17.660] >>> Trace was selected
+[2024-31-17 17:02:18.824] >>> Trace was selected
+[2024-31-17 17:02:24.498] >>> csv file was selected
+[2024-31-17 17:02:26.403] >>> csv file was selected
+[2024-31-17 17:02:39.875] >>> csv file was selected
+[2024-31-17 17:02:40.941] >>> csv file was selected
+[2024-31-17 17:02:42.405] >>> csv file was selected
+[2024-31-17 17:02:56.576] >>> csv file was selected
+[2024-31-17 17:02:56.668] >>> csv file was selected
+[2024-31-17 17:02:57.294] >>> csv file was selected
+[2024-31-17 17:02:59.422] >>> csv file was selected
+[2024-32-17 17:02:25.373] >>> Trace was selected
+[2024-32-17 17:02:26.815] >>> Trace was selected
+[2024-32-17 17:02:28.597] >>> Trace was selected
+[2024-32-17 17:02:44.150] >>> Trace was selected
+[2024-32-17 17:02:45.044] >>> Trace was selected
+[2024-32-17 17:02:45.726] >>> csv file was selected
+[2024-32-17 17:02:46.280] >>> Trace was selected
+[2024-32-17 17:02:48.502] >>> Trace was selected
+[2024-36-17 17:02:51.103] >>> Trace was selected
+[2024-36-17 17:02:54.709] >>> Trace was selected
+[2024-36-17 17:02:55.945] >>> Trace was selected
+[2024-37-17 17:02:33.016] >>> csv file was selected
+[2024-37-17 17:02:33.849] >>> csv file was selected
+[2024-37-17 17:02:50.441] >>> csv file was selected
+[2024-37-17 17:02:53.508] >>> csv file was selected
+[2024-38-17 17:02:19.037] >>> csv file was selected
+[2024-38-17 17:02:20.342] >>> csv file was selected
+[2024-38-17 17:02:21.804] >>> csv file was selected
+[2024-38-17 17:02:23.460] >>> csv file was selected
+[2024-38-17 17:02:52.201] >>> csv file was selected
+[2024-38-17 17:02:53.733] >>> csv file was selected
+[2024-40-17 17:02:30.554] >>> csv file was selected
+[2024-40-17 17:02:31.691] >>> csv file was selected
+[2024-40-17 17:02:32.842] >>> csv file was selected
+[2024-40-17 17:02:49.461] >>> csv file was selected
+[2024-40-17 17:02:51.296] >>> csv file was selected
+[2024-44-17 17:02:03.115] >>> Trace was selected
+[2024-44-17 17:02:03.130] >>> Charts grid was created
+[2024-44-17 17:02:03.159] >>> Spectral char was created
+[2024-44-17 17:02:04.028] >>> Trace was selected
+[2024-44-17 17:02:05.115] >>> Trace was selected
+[2024-44-17 17:02:06.419] >>> csv file was selected
+[2024-44-17 17:02:07.577] >>> csv file was selected
+[2024-44-17 17:02:08.911] >>> Trace was selected
+[2024-44-17 17:02:11.183] >>> csv file was selected
+[2024-44-17 17:02:12.535] >>> Trace was selected
+[2024-44-17 17:02:13.904] >>> csv file was selected
+[2024-44-17 17:02:15.340] >>> Trace was selected
+[2024-46-17 17:02:17.996] >>> Trace was selected
+[2024-46-17 17:02:21.531] >>> Trace was selected
+[2024-48-17 17:02:33.235] >>> csv file was selected
+[2024-48-17 17:02:34.566] >>> csv file was selected
+[2024-48-17 17:02:35.911] >>> csv file was selected
+[2024-48-17 17:02:37.139] >>> csv file was selected
+[2024-48-17 17:02:52.160] >>> csv file was selected
+[2024-48-17 17:02:52.591] >>> csv file was selected
+[2024-49-17 17:02:06.344] >>> csv file was selected
+[2024-49-17 17:02:08.569] >>> csv file was selected
+[2024-49-17 17:02:24.483] >>> csv file was selected
+[2024-49-17 17:02:25.571] >>> csv file was selected
+[2024-49-17 17:02:50.181] >>> csv file was selected
+[2024-49-17 17:02:51.286] >>> csv file was selected
+[2024-50-17 17:02:05.031] >>> Trace was selected
+[2024-50-17 17:02:05.046] >>> Charts grid was created
+[2024-50-17 17:02:05.077] >>> Spectral char was created
+[2024-50-17 17:02:06.424] >>> Trace was selected
+[2024-50-17 17:02:08.359] >>> Trace was selected
+[2024-50-17 17:02:10.391] >>> Trace was selected
+[2024-50-17 17:02:12.952] >>> Trace was selected
+[2024-50-17 17:02:14.147] >>> Trace was selected
+[2024-52-17 17:02:03.901] >>> Trace was selected
+[2024-52-17 17:02:50.811] >>> csv file was selected
+[2024-52-17 17:02:51.991] >>> csv file was selected
+[2024-52-17 17:02:53.219] >>> csv file was selected
+[2024-52-17 17:02:54.806] >>> csv file was selected
+[2024-52-17 17:02:55.650] >>> csv file was selected
+[2024-52-17 17:02:56.419] >>> csv file was selected
+[2024-52-17 17:02:58.092] >>> csv file was selected
+[2024-53-17 17:02:12.997] >>> csv file was selected
+[2024-53-17 17:02:28.597] >>> csv file was selected
+[2024-53-17 17:02:45.578] >>> csv file was selected
+[2024-53-17 17:02:59.299] >>> csv file was selected
+[2024-54-17 17:02:15.291] >>> Trace was selected
+[2024-54-17 17:02:15.305] >>> Charts grid was created
+[2024-54-17 17:02:15.332] >>> Spectral char was created
+[2024-54-17 17:02:18.019] >>> Trace was selected
+[2024-54-17 17:02:19.363] >>> Trace was selected
+[2024-54-17 17:02:21.935] >>> Trace was selected
+[2024-54-17 17:02:23.099] >>> Trace was selected
+[2024-54-17 17:02:25.034] >>> Trace was selected
+[2024-54-17 17:02:25.623] >>> Trace was selected
+[2024-54-17 17:02:31.950] >>> Trace was selected
+[2024-54-17 17:02:32.699] >>> Trace was selected
+[2024-54-17 17:02:36.434] >>> Trace was selected
+[2024-54-17 17:02:38.698] >>> Trace was selected
+[2024-54-17 17:02:39.149] >>> Trace was selected
+[2024-55-17 17:02:11.828] >>> Trace was selected
+[2024-55-17 17:02:13.946] >>> Trace was selected
+[2024-55-17 17:02:15.427] >>> Trace was selected
+[2024-55-17 17:02:17.069] >>> Trace was selected
+[2024-06-20 20:02:46.143] >>> English language was selected
+[2024-06-20 20:02:47.879] >>> Reading language is succesful
+[2024-09-20 20:02:07.892] >>> English language was selected
+[2024-09-20 20:02:08.141] >>> Reading language is succesful
+[2024-09-20 20:02:54.509] >>> English language was selected
+[2024-09-20 20:02:54.650] >>> Reading language is succesful
+[2024-11-20 20:02:01.470] >>> English language was selected
+[2024-11-20 20:02:01.553] >>> Reading language is succesful
+[2024-12-20 20:02:00.565] >>> csv file was selected
+[2024-12-20 20:02:05.568] >>> csv file was selected
+[2024-13-20 20:02:10.037] >>> csv file was selected
+[2024-13-20 20:02:11.351] >>> csv file was selected
+[2024-13-20 20:02:12.800] >>> csv file was selected
+[2024-13-20 20:02:47.869] >>> csv file was selected
+[2024-13-20 20:02:49.008] >>> csv file was selected
+[2024-13-20 20:02:51.400] >>> csv file was selected
+[2024-13-20 20:02:53.167] >>> csv file was selected
+[2024-14-20 20:02:28.002] >>> csv file was selected
+[2024-14-20 20:02:29.479] >>> csv file was selected
+[2024-14-20 20:02:58.413] >>> csv file was selected
+[2024-15-20 20:02:03.573] >>> Trace was selected
+[2024-15-20 20:02:03.605] >>> Charts grid was created
+[2024-15-20 20:02:04.489] >>> Spectral char was created
+[2024-15-20 20:02:10.662] >>> Trace was selected
+[2024-15-20 20:02:14.132] >>> Trace was selected
+[2024-15-20 20:02:19.737] >>> Trace was selected
+[2024-15-20 20:02:21.755] >>> Trace was selected
+[2024-16-20 20:02:03.398] >>> Trace was selected
+[2024-16-20 20:02:11.613] >>> Trace was selected
+[2024-16-20 20:02:41.629] >>> Trace was selected
+[2024-16-20 20:02:47.745] >>> Trace was selected
+[2024-16-20 20:02:51.303] >>> Trace was selected
+[2024-17-20 20:02:22.988] >>> Trace was selected
+[2024-17-20 20:02:23.687] >>> Trace was selected
+[2024-17-20 20:02:24.971] >>> Trace was selected
+[2024-17-20 20:02:25.757] >>> Trace was selected
+[2024-17-20 20:02:41.258] >>> Trace was selected
+[2024-19-20 20:02:09.070] >>> Trace was selected
+[2024-19-20 20:02:09.856] >>> Trace was selected
+[2024-19-20 20:02:10.841] >>> Trace was selected
+[2024-19-20 20:02:13.003] >>> Trace was selected
+[2024-19-20 20:02:13.088] >>> Charts grid was created
+[2024-19-20 20:02:13.200] >>> Spectral char was created
+[2024-19-20 20:02:14.147] >>> Trace was selected
+[2024-19-20 20:02:14.594] >>> Trace was selected
+[2024-19-20 20:02:54.527] >>> Trace was selected
+[2024-19-20 20:02:55.529] >>> Trace was selected
+[2024-19-20 20:02:56.520] >>> Trace was selected
+[2024-19-20 20:02:59.340] >>> Trace was selected
+[2024-19-20 20:02:59.387] >>> Charts grid was created
+[2024-19-20 20:02:59.454] >>> Spectral char was created
+[2024-20-20 20:02:00.831] >>> Trace was selected
+[2024-20-20 20:02:02.737] >>> Trace was selected
+[2024-20-20 20:02:04.797] >>> Trace was selected
+[2024-20-20 20:02:07.373] >>> Trace was selected
+[2024-20-20 20:02:09.202] >>> Trace was selected
+[2024-20-20 20:02:13.467] >>> Trace was selected
+[2024-20-20 20:02:14.498] >>> Trace was selected
+[2024-20-20 20:02:15.482] >>> Trace was selected
+[2024-20-20 20:02:19.334] >>> Trace was selected
+[2024-20-20 20:02:20.382] >>> Trace was selected
+[2024-20-20 20:02:20.425] >>> Charts grid was created
+[2024-20-20 20:02:20.460] >>> Spectral char was created
+[2024-20-20 20:02:21.421] >>> Trace was selected
+[2024-20-20 20:02:22.609] >>> Trace was selected
+[2024-20-20 20:02:23.609] >>> Trace was selected
+[2024-23-20 20:02:42.848] >>> Trace was selected
+[2024-23-20 20:02:42.901] >>> Charts grid was created
+[2024-23-20 20:02:42.967] >>> Spectral char was created
+[2024-23-20 20:02:43.665] >>> Trace was selected
+[2024-23-20 20:02:44.245] >>> Trace was selected
+[2024-23-20 20:02:54.024] >>> csv file was selected
+[2024-23-20 20:02:56.668] >>> Trace was selected
+[2024-23-20 20:02:57.213] >>> Trace was selected
+[2024-23-20 20:02:57.651] >>> Trace was selected
+[2024-23-20 20:02:58.296] >>> csv file was selected
+[2024-24-20 20:02:22.613] >>> Trace was selected
+[2024-24-20 20:02:22.627] >>> Charts grid was created
+[2024-24-20 20:02:22.662] >>> Spectral char was created
+[2024-24-20 20:02:23.978] >>> Trace was selected
+[2024-24-20 20:02:27.504] >>> Trace was selected
+[2024-24-20 20:02:33.663] >>> Trace was selected
+[2024-24-20 20:02:34.775] >>> Trace was selected
+[2024-54-20 20:02:53.163] >>> csv file was selected
+[2024-54-20 20:02:57.569] >>> csv file was selected
+[2024-54-20 20:02:58.987] >>> csv file was selected
+[2024-55-20 20:02:00.016] >>> Trace was selected
+[2024-55-20 20:02:01.166] >>> csv file was selected
+[2024-55-20 20:02:02.916] >>> csv file was selected
+[2024-55-20 20:02:04.153] >>> csv file was selected
+[2024-55-20 20:02:05.267] >>> csv file was selected
+[2024-55-20 20:02:22.842] >>> csv file was selected
+[2024-55-20 20:02:24.270] >>> csv file was selected
+[2024-55-20 20:02:38.013] >>> Trace was selected
+[2024-55-20 20:02:38.031] >>> Charts grid was created
+[2024-55-20 20:02:38.073] >>> Spectral char was created
+[2024-55-20 20:02:50.668] >>> Trace was selected
+[2024-55-20 20:02:51.882] >>> csv file was selected
+[2024-55-20 20:02:53.243] >>> csv file was selected
+[2024-56-20 20:02:06.952] >>> Trace was selected
+[2024-56-20 20:02:07.565] >>> Trace was selected
+[2024-56-20 20:02:07.613] >>> Charts grid was created
+[2024-56-20 20:02:07.643] >>> Spectral char was created
+[2024-56-20 20:02:13.493] >>> Trace was selected
+[2024-56-20 20:02:15.850] >>> Trace was selected
+[2024-56-20 20:02:20.259] >>> Trace was selected
+[2024-56-20 20:02:23.057] >>> Trace was selected
+[2024-56-20 20:02:27.462] >>> Trace was selected
+[2024-56-20 20:02:28.223] >>> Trace was selected
+[2024-56-20 20:02:32.609] >>> Trace was selected
+[2024-56-20 20:02:33.476] >>> Trace was selected
+[2024-56-20 20:02:36.960] >>> Trace was selected
+[2024-56-20 20:02:38.151] >>> Trace was selected
+[2024-56-20 20:02:44.948] >>> Trace was selected
+[2024-56-20 20:02:46.206] >>> Trace was selected
+[2024-59-21 22:02:20.240] >>> English language was selected
+[2024-59-21 22:02:23.103] >>> Reading language is succesful
+[2024-01-21 23:02:44.286] >>> csv file was selected
+[2024-01-21 23:02:47.301] >>> Trace was selected
+[2024-01-21 23:02:47.339] >>> Charts grid was created
+[2024-01-21 23:02:48.358] >>> Spectral char was created
+[2024-01-21 23:02:55.692] >>> Trace was selected
+[2024-01-21 23:02:56.969] >>> Trace was selected
+[2024-01-21 23:02:58.023] >>> Trace was selected
+[2024-02-21 23:02:00.993] >>> Trace was selected
+[2024-02-21 23:02:02.155] >>> Trace was selected
+[2024-02-21 23:02:03.091] >>> Trace was selected
+[2024-02-21 23:02:05.664] >>> csv file was selected
+[2024-02-21 23:02:29.366] >>> Trace was selected
+[2024-02-21 23:02:29.800] >>> Trace was selected
+[2024-02-21 23:02:30.314] >>> Trace was selected
+[2024-02-21 23:02:31.261] >>> Trace was selected
+[2024-35-22 00:02:53.051] >>> English language was selected
+[2024-35-22 00:02:53.315] >>> Reading language is succesful
+[2024-36-22 00:02:11.371] >>> csv file was selected
+[2024-36-22 00:02:12.245] >>> Trace was selected
+[2024-36-22 00:02:12.265] >>> Charts grid was created
+[2024-36-22 00:02:12.334] >>> Spectral char was created
+[2024-36-22 00:02:23.727] >>> Trace was selected
+[2024-36-22 00:02:26.112] >>> Trace was selected
+[2024-37-22 00:02:50.618] >>> Trace was selected
+[2024-37-22 00:02:51.621] >>> Trace was selected
+[2024-37-22 00:02:54.112] >>> Trace was selected
+[2024-37-22 00:02:54.986] >>> Trace was selected
+[2024-37-22 00:02:56.418] >>> Trace was selected
+[2024-41-22 00:02:00.366] >>> English language was selected
+[2024-41-22 00:02:00.465] >>> Reading language is succesful
+[2024-41-22 00:02:11.461] >>> csv file was selected
+[2024-41-22 00:02:12.496] >>> Trace was selected
+[2024-41-22 00:02:12.514] >>> Charts grid was created
+[2024-41-22 00:02:12.570] >>> Spectral char was created
+[2024-41-22 00:02:16.702] >>> Trace was selected
+[2024-41-22 00:02:18.025] >>> Trace was selected
+[2024-41-22 00:02:25.581] >>> Trace was selected
+[2024-43-22 00:02:29.015] >>> English language was selected
+[2024-43-22 00:02:29.071] >>> Reading language is succesful
+[2024-43-22 00:02:48.705] >>> csv file was selected
+[2024-43-22 00:02:50.047] >>> Trace was selected
+[2024-43-22 00:02:51.411] >>> Trace was selected
+[2024-43-22 00:02:51.425] >>> Charts grid was created
+[2024-43-22 00:02:51.458] >>> Spectral char was created
+[2024-43-22 00:02:57.949] >>> Trace was selected
+[2024-44-22 00:02:06.096] >>> Trace was selected
+[2024-44-22 00:02:10.731] >>> Trace was selected
+[2024-44-22 00:02:55.667] >>> English language was selected
+[2024-44-22 00:02:55.892] >>> Reading language is succesful
+[2024-45-22 00:02:18.513] >>> csv file was selected
+[2024-45-22 00:02:19.506] >>> Trace was selected
+[2024-45-22 00:02:19.532] >>> Charts grid was created
+[2024-45-22 00:02:19.597] >>> Spectral char was created
+[2024-45-22 00:02:24.369] >>> Trace was selected
+[2024-45-22 00:02:27.235] >>> Trace was selected
+[2024-45-22 00:02:39.761] >>> Trace was selected
+[2024-45-22 00:02:40.531] >>> Trace was selected
+[2024-45-22 00:02:43.334] >>> Trace was selected
+[2024-45-22 00:02:44.044] >>> Trace was selected
+[2024-45-22 00:02:48.177] >>> Trace was selected
+[2024-45-22 00:02:48.803] >>> Trace was selected
+[2024-45-22 00:02:49.311] >>> Trace was selected
+[2024-45-22 00:02:53.089] >>> Trace was selected
+[2024-45-22 00:02:53.528] >>> Trace was selected
+[2024-45-22 00:02:53.818] >>> Trace was selected
+[2024-45-22 00:02:54.257] >>> Trace was selected
+[2024-59-22 00:02:06.221] >>> English language was selected
+[2024-59-22 00:02:06.295] >>> Reading language is succesful
+[2024-59-22 00:02:26.903] >>> csv file was selected
+[2024-59-22 00:02:29.568] >>> csv file was selected
+[2024-59-22 00:02:31.311] >>> Trace was selected
+[2024-59-22 00:02:31.330] >>> Charts grid was created
+[2024-59-22 00:02:31.362] >>> Spectral char was created
+[2024-59-22 00:02:41.594] >>> csv file was selected
+[2024-01-22 01:02:26.996] >>> English language was selected
+[2024-01-22 01:02:27.017] >>> Reading language is succesful
+[2024-01-22 01:02:37.275] >>> csv file was selected
+[2024-01-22 01:02:38.534] >>> Trace was selected
+[2024-01-22 01:02:38.552] >>> Charts grid was created
+[2024-01-22 01:02:38.578] >>> Spectral char was created
+[2024-01-22 01:02:46.464] >>> Trace was selected
+[2024-01-22 01:02:50.584] >>> Trace was selected
+[2024-39-22 06:02:14.508] >>> English language was selected
+[2024-39-22 06:02:31.790] >>> English language was selected
+[2024-39-22 06:02:31.874] >>> Reading language is succesful
+[2024-39-22 06:02:44.724] >>> csv file was selected
+[2024-39-22 06:02:46.233] >>> Trace was selected
+[2024-39-22 06:02:46.252] >>> Charts grid was created
+[2024-39-22 06:02:46.295] >>> Spectral char was created
+[2024-39-22 06:02:51.354] >>> Trace was selected
+[2024-39-22 06:02:54.494] >>> Trace was selected
+[2024-40-22 06:02:15.795] >>> Trace was selected
+[2024-41-22 06:02:59.912] >>> English language was selected
+[2024-41-22 06:02:59.982] >>> Reading language is succesful
+[2024-42-22 06:02:09.640] >>> csv file was selected
+[2024-42-22 06:02:11.554] >>> Trace was selected
+[2024-42-22 06:02:11.569] >>> Charts grid was created
+[2024-42-22 06:02:11.596] >>> Spectral char was created
+[2024-42-22 06:02:19.002] >>> Trace was selected
+[2024-42-22 06:02:23.750] >>> Trace was selected
+[2024-42-22 06:02:24.783] >>> Trace was selected
+[2024-42-22 06:02:35.731] >>> English language was selected
+[2024-42-22 06:02:35.762] >>> Reading language is succesful
+[2024-43-22 06:02:17.269] >>> csv file was selected
+[2024-43-22 06:02:18.701] >>> Trace was selected
+[2024-43-22 06:02:18.718] >>> Charts grid was created
+[2024-43-22 06:02:18.742] >>> Spectral char was created
+[2024-43-22 06:02:22.466] >>> Trace was selected
+[2024-43-22 06:02:25.485] >>> Trace was selected
+[2024-44-22 06:02:44.341] >>> English language was selected
+[2024-44-22 06:02:44.382] >>> Reading language is succesful
+[2024-44-22 06:02:56.302] >>> csv file was selected
+[2024-44-22 06:02:57.576] >>> Trace was selected
+[2024-44-22 06:02:57.593] >>> Charts grid was created
+[2024-44-22 06:02:57.619] >>> Spectral char was created
+[2024-45-22 06:02:00.326] >>> Trace was selected
+[2024-51-22 06:02:28.540] >>> English language was selected
+[2024-51-22 06:02:28.629] >>> Reading language is succesful
+[2024-51-22 06:02:39.313] >>> csv file was selected
+[2024-51-22 06:02:40.565] >>> Trace was selected
+[2024-51-22 06:02:40.584] >>> Charts grid was created
+[2024-51-22 06:02:40.615] >>> Spectral char was created
+[2024-51-22 06:02:43.724] >>> Trace was selected
+[2024-51-22 06:02:45.805] >>> Trace was selected
+[2024-57-22 06:02:09.203] >>> English language was selected
+[2024-57-22 06:02:09.236] >>> Reading language is succesful
+[2024-57-22 06:02:23.391] >>> csv file was selected
+[2024-57-22 06:02:25.118] >>> Trace was selected
+[2024-57-22 06:02:25.134] >>> Charts grid was created
+[2024-57-22 06:02:25.159] >>> Spectral char was created
+[2024-57-22 06:02:29.320] >>> Trace was selected
+[2024-57-22 06:02:32.528] >>> Trace was selected
+[2024-58-22 06:02:47.929] >>> English language was selected
+[2024-58-22 06:02:48.008] >>> Reading language is succesful
+[2024-58-22 06:02:58.701] >>> csv file was selected
+[2024-59-22 06:02:00.119] >>> Trace was selected
+[2024-59-22 06:02:00.139] >>> Charts grid was created
+[2024-59-22 06:02:00.165] >>> Spectral char was created
+[2024-59-22 06:02:03.367] >>> FFT chart was created
+[2024-59-22 06:02:08.788] >>> Trace was selected
+[2024-59-22 06:02:12.968] >>> Trace was selected
+[2024-00-22 07:02:19.088] >>> Trace was selected
+[2024-00-22 07:02:20.544] >>> Trace was selected
+[2024-00-22 07:02:21.646] >>> Trace was selected
+[2024-01-22 07:02:23.997] >>> English language was selected
+[2024-01-22 07:02:24.044] >>> Reading language is succesful
+[2024-12-22 07:02:47.864] >>> English language was selected
+[2024-12-22 07:02:47.887] >>> Reading language is succesful
+[2024-13-22 07:02:04.639] >>> csv file was selected
+[2024-13-22 07:02:05.887] >>> Trace was selected
+[2024-13-22 07:02:05.904] >>> Charts grid was created
+[2024-13-22 07:02:05.931] >>> Spectral char was created
+[2024-13-22 07:02:11.614] >>> Trace was selected
+[2024-13-22 07:02:14.235] >>> Trace was selected
+[2024-13-22 07:02:35.042] >>> Trace was selected
+[2024-13-22 07:02:37.548] >>> csv file was selected
+[2024-13-22 07:02:48.939] >>> Trace was selected
+[2024-13-22 07:02:48.953] >>> Charts grid was created
+[2024-13-22 07:02:48.970] >>> Spectral char was created
+[2024-07-22 17:02:35.374] >>> English language was selected
+[2024-07-22 17:02:37.170] >>> Reading language is succesful
+[2024-07-22 17:02:56.865] >>> csv file was selected
+[2024-07-22 17:02:58.486] >>> csv file was selected
+[2024-07-22 17:02:59.462] >>> Trace was selected
+[2024-07-22 17:02:59.523] >>> Charts grid was created
+[2024-08-22 17:02:00.371] >>> Spectral char was created
+[2024-08-22 17:02:01.452] >>> csv file was selected
+[2024-08-22 17:02:09.442] >>> csv file was selected
+[2024-08-22 17:02:28.470] >>> csv file was selected
+[2024-09-22 17:02:46.795] >>> Trace was selected
+[2024-09-22 17:02:47.714] >>> csv file was selected
+[2024-09-22 17:02:49.189] >>> csv file was selected
+[2024-09-22 17:02:50.651] >>> Trace was selected
+[2024-09-22 17:02:50.674] >>> Charts grid was created
+[2024-09-22 17:02:50.730] >>> Spectral char was created
+[2024-21-22 17:02:42.488] >>> English language was selected
+[2024-21-22 17:02:52.891] >>> English language was selected
+[2024-21-22 17:02:53.038] >>> Reading language is succesful
+[2024-22-22 17:02:11.399] >>> csv file was selected
+[2024-22-22 17:02:12.924] >>> Trace was selected
+[2024-22-22 17:02:12.945] >>> Charts grid was created
+[2024-22-22 17:02:13.004] >>> Spectral char was created
+[2024-22-22 17:02:30.854] >>> Trace was selected
+[2024-22-22 17:02:31.735] >>> csv file was selected
+[2024-22-22 17:02:33.739] >>> Trace was selected
+[2024-22-22 17:02:33.758] >>> Charts grid was created
+[2024-22-22 17:02:33.788] >>> Spectral char was created
+[2024-22-22 17:02:37.739] >>> Trace was selected
+[2024-29-22 17:02:41.495] >>> English language was selected
+[2024-29-22 17:02:41.590] >>> Reading language is succesful
+[2024-29-22 17:02:53.996] >>> csv file was selected
+[2024-29-22 17:02:55.086] >>> Trace was selected
+[2024-29-22 17:02:55.104] >>> Charts grid was created
+[2024-29-22 17:02:55.178] >>> Spectral char was created
+[2024-29-22 17:02:56.967] >>> csv file was selected
+[2024-29-22 17:02:57.238] >>> csv file was selected
+[2024-29-22 17:02:57.739] >>> csv file was selected
+[2024-29-22 17:02:57.776] >>> Charts grid was created
+[2024-29-22 17:02:57.793] >>> Spectral char was created
+[2024-30-22 17:02:23.541] >>> English language was selected
+[2024-30-22 17:02:23.616] >>> Reading language is succesful
+[2024-45-22 17:02:11.613] >>> csv file was selected
+[2024-45-22 17:02:13.419] >>> csv file was selected
+[2024-46-22 17:02:00.036] >>> Trace was selected
+[2024-46-22 17:02:04.795] >>> csv file was selected
+[2024-48-22 17:02:19.297] >>> Trace was selected
+[2024-48-22 17:02:19.320] >>> Charts grid was created
+[2024-48-22 17:02:19.351] >>> Spectral char was created
+[2024-48-22 17:02:21.192] >>> Trace was selected
+[2024-48-22 17:02:23.023] >>> Trace was selected
+[2024-48-22 17:02:29.552] >>> Trace was selected
+[2024-48-22 17:02:34.711] >>> Trace was selected
+[2024-48-22 17:02:47.543] >>> Trace was selected
+[2024-48-22 17:02:48.771] >>> Trace was selected
+[2024-48-22 17:02:48.814] >>> Charts grid was created
+[2024-48-22 17:02:48.836] >>> Spectral char was created
+[2024-49-22 17:02:09.683] >>> csv file was selected
+[2024-49-22 17:02:20.449] >>> Trace was selected
+[2024-49-22 17:02:21.043] >>> Trace was selected
+[2024-49-22 17:02:21.638] >>> Trace was selected
+[2024-49-22 17:02:22.103] >>> Trace was selected
+[2024-49-22 17:02:22.594] >>> Trace was selected
+[2024-49-22 17:02:22.995] >>> Trace was selected
+[2024-49-22 17:02:23.397] >>> Trace was selected
+[2024-49-22 17:02:23.818] >>> Trace was selected
+[2024-49-22 17:02:24.185] >>> Trace was selected
+[2024-49-22 17:02:24.748] >>> Trace was selected
+[2024-49-22 17:02:25.121] >>> Trace was selected
+[2024-49-22 17:02:43.776] >>> csv file was selected
+[2024-50-22 17:02:27.093] >>> Trace was selected
+[2024-50-22 17:02:28.115] >>> Trace was selected
+[2024-50-22 17:02:28.849] >>> Trace was selected
+[2024-50-22 17:02:34.510] >>> Trace was selected
+[2024-50-22 17:02:35.726] >>> Trace was selected
+[2024-51-22 17:02:00.216] >>> csv file was selected
+[2024-51-22 17:02:08.522] >>> Trace was selected
+[2024-51-22 17:02:21.945] >>> Trace was selected
+[2024-51-22 17:02:22.985] >>> Trace was selected
+[2024-51-22 17:02:23.981] >>> Trace was selected
+[2024-51-22 17:02:24.534] >>> Trace was selected
+[2024-51-22 17:02:29.435] >>> Trace was selected
+[2024-51-22 17:02:33.363] >>> Trace was selected
+[2024-58-22 17:02:39.340] >>> English language was selected
+[2024-58-22 17:02:39.478] >>> Reading language is succesful
+[2024-59-22 17:02:14.499] >>> csv file was selected
+[2024-59-22 17:02:16.357] >>> csv file was selected
+[2024-59-22 17:02:24.322] >>> Trace was selected
+[2024-59-22 17:02:24.338] >>> Charts grid was created
+[2024-59-22 17:02:24.366] >>> Spectral char was created
+[2024-59-22 17:02:29.039] >>> Trace was selected
+[2024-59-22 17:02:37.880] >>> Trace was selected
+[2024-59-22 17:02:57.369] >>> Trace was selected
+[2024-00-22 18:02:01.350] >>> Trace was selected
+[2024-00-22 18:02:01.898] >>> Trace was selected
+[2024-00-22 18:02:02.033] >>> Trace was selected
+[2024-00-22 18:02:02.409] >>> Trace was selected
+[2024-00-22 18:02:02.530] >>> Trace was selected
+[2024-05-22 18:02:46.020] >>> English language was selected
+[2024-05-22 18:02:46.543] >>> Reading language is succesful
+[2024-06-22 18:02:49.842] >>> csv file was selected
+[2024-06-22 18:02:50.925] >>> csv file was selected
+[2024-06-22 18:02:51.945] >>> csv file was selected
+[2024-07-22 18:02:12.047] >>> csv file was selected
+[2024-07-22 18:02:13.801] >>> csv file was selected
+[2024-07-22 18:02:15.625] >>> Trace was selected
+[2024-07-22 18:02:15.647] >>> Charts grid was created
+[2024-07-22 18:02:15.752] >>> Spectral char was created
+[2024-07-22 18:02:20.899] >>> Trace was selected
+[2024-14-22 18:02:45.670] >>> English language was selected
+[2024-14-22 18:02:45.737] >>> Reading language is succesful
+[2024-15-22 18:02:36.690] >>> csv file was selected
+[2024-25-22 18:02:14.339] >>> English language was selected
+[2024-25-22 18:02:14.395] >>> Reading language is succesful
+[2024-25-22 18:02:29.916] >>> csv file was selected
+[2024-25-22 18:02:32.558] >>> Trace was selected
+[2024-25-22 18:02:32.576] >>> Charts grid was created
+[2024-25-22 18:02:32.606] >>> Spectral char was created
+[2024-25-22 18:02:33.818] >>> Trace was selected
+[2024-25-22 18:02:37.203] >>> Trace was selected
+[2024-25-22 18:02:38.060] >>> Trace was selected
+[2024-25-22 18:02:38.711] >>> Trace was selected
+[2024-25-22 18:02:40.029] >>> Trace was selected
+[2024-25-22 18:02:40.909] >>> Trace was selected
+[2024-25-22 18:02:41.649] >>> Trace was selected
+[2024-26-22 18:02:23.268] >>> English language was selected
+[2024-26-22 18:02:23.289] >>> Reading language is succesful
+[2024-26-22 18:02:34.135] >>> csv file was selected
+[2024-27-22 18:02:45.491] >>> English language was selected
+[2024-27-22 18:02:45.512] >>> Reading language is succesful
+[2024-28-22 18:02:00.010] >>> csv file was selected
+[2024-28-22 18:02:01.944] >>> Trace was selected
+[2024-28-22 18:02:01.971] >>> Charts grid was created
+[2024-28-22 18:02:02.004] >>> Spectral char was created
+[2024-28-22 18:02:03.002] >>> Trace was selected
+[2024-28-22 18:02:04.382] >>> Trace was selected
+[2024-28-22 18:02:06.357] >>> Trace was selected
+[2024-28-22 18:02:08.146] >>> Trace was selected
+[2024-28-22 18:02:12.955] >>> Trace was selected
+[2024-28-22 18:02:13.569] >>> Trace was selected
+[2024-28-22 18:02:13.602] >>> Charts grid was created
+[2024-28-22 18:02:13.612] >>> Spectral char was created
+[2024-28-22 18:02:14.817] >>> Trace was selected
+[2024-28-22 18:02:16.083] >>> Trace was selected
+[2024-28-22 18:02:16.119] >>> Charts grid was created
+[2024-28-22 18:02:16.136] >>> Spectral char was created
+[2024-28-22 18:02:20.596] >>> Trace was selected
+[2024-28-22 18:02:21.328] >>> Trace was selected
+[2024-28-22 18:02:21.363] >>> Charts grid was created
+[2024-28-22 18:02:21.382] >>> Spectral char was created
+[2024-28-22 18:02:22.856] >>> Trace was selected
+[2024-28-22 18:02:23.431] >>> Trace was selected
+[2024-28-22 18:02:23.469] >>> Charts grid was created
+[2024-28-22 18:02:23.488] >>> Spectral char was created
+[2024-28-22 18:02:24.865] >>> Trace was selected
+[2024-28-22 18:02:26.285] >>> Trace was selected
+[2024-28-22 18:02:49.556] >>> English language was selected
+[2024-28-22 18:02:49.576] >>> Reading language is succesful
+[2024-29-22 18:02:07.599] >>> csv file was selected
+[2024-29-22 18:02:09.155] >>> Trace was selected
+[2024-29-22 18:02:09.171] >>> Charts grid was created
+[2024-29-22 18:02:09.196] >>> Spectral char was created
+[2024-29-22 18:02:10.332] >>> Trace was selected
+[2024-29-22 18:02:11.086] >>> Trace was selected
+[2024-29-22 18:02:11.122] >>> Charts grid was created
+[2024-29-22 18:02:11.139] >>> Spectral char was created
+[2024-29-22 18:02:11.899] >>> Trace was selected
+[2024-29-22 18:02:12.563] >>> Trace was selected
+[2024-29-22 18:02:12.597] >>> Charts grid was created
+[2024-29-22 18:02:12.615] >>> Spectral char was created
+[2024-29-22 18:02:14.394] >>> Trace was selected
+[2024-29-22 18:02:15.466] >>> Trace was selected
+[2024-29-22 18:02:17.873] >>> Trace was selected
+[2024-29-22 18:02:18.527] >>> Trace was selected
+[2024-29-22 18:02:19.215] >>> Trace was selected
+[2024-30-22 18:02:29.271] >>> English language was selected
+[2024-30-22 18:02:29.292] >>> Reading language is succesful
+[2024-30-22 18:02:39.978] >>> csv file was selected
+[2024-31-22 18:02:12.675] >>> English language was selected
+[2024-31-22 18:02:12.696] >>> Reading language is succesful
+[2024-31-22 18:02:30.686] >>> csv file was selected
+[2024-31-22 18:02:31.228] >>> csv file was selected
+[2024-33-22 18:02:02.618] >>> English language was selected
+[2024-33-22 18:02:02.645] >>> Reading language is succesful
+[2024-33-22 18:02:14.687] >>> csv file was selected
+[2024-33-22 18:02:20.592] >>> csv file was selected
+[2024-33-22 18:02:20.942] >>> csv file was selected
+[2024-33-22 18:02:21.387] >>> csv file was selected
+[2024-33-22 18:02:21.564] >>> csv file was selected
+[2024-33-22 18:02:21.713] >>> csv file was selected
+[2024-33-22 18:02:21.871] >>> csv file was selected
+[2024-34-22 18:02:14.709] >>> English language was selected
+[2024-34-22 18:02:14.731] >>> Reading language is succesful
+[2024-34-22 18:02:30.308] >>> csv file was selected
+[2024-34-22 18:02:58.650] >>> English language was selected
+[2024-34-22 18:02:58.670] >>> Reading language is succesful
+[2024-35-22 18:02:16.092] >>> csv file was selected
+[2024-35-22 18:02:31.678] >>> English language was selected
+[2024-35-22 18:02:31.702] >>> Reading language is succesful
+[2024-36-22 18:02:47.437] >>> csv file was selected
+[2024-36-22 18:02:53.017] >>> csv file was selected
+[2024-36-22 18:02:53.482] >>> csv file was selected
+[2024-37-22 18:02:48.059] >>> English language was selected
+[2024-37-22 18:02:48.079] >>> Reading language is succesful
+[2024-38-22 18:02:31.603] >>> English language was selected
+[2024-38-22 18:02:31.624] >>> Reading language is succesful
+[2024-38-22 18:02:46.436] >>> English language was selected
+[2024-38-22 18:02:46.455] >>> Reading language is succesful
+[2024-39-22 18:02:13.903] >>> csv file was selected
+[2024-40-22 18:02:38.378] >>> English language was selected
+[2024-40-22 18:02:38.387] >>> Reading language is succesful
+[2024-42-22 18:02:23.512] >>> English language was selected
+[2024-42-22 18:02:23.527] >>> Reading language is succesful
+[2024-42-22 18:02:38.409] >>> csv file was selected
+[2024-42-22 18:02:50.518] >>> English language was selected
+[2024-42-22 18:02:50.540] >>> Reading language is succesful
+[2024-43-22 18:02:50.210] >>> English language was selected
+[2024-43-22 18:02:50.234] >>> Reading language is succesful
+[2024-44-22 18:02:00.303] >>> csv file was selected
+[2024-45-22 18:02:34.713] >>> English language was selected
+[2024-45-22 18:02:34.729] >>> Reading language is succesful
+[2024-45-22 18:02:47.310] >>> csv file was selected
+[2024-46-22 18:02:14.577] >>> English language was selected
+[2024-46-22 18:02:14.624] >>> Reading language is succesful
+[2024-46-22 18:02:31.331] >>> csv file was selected
+[2024-46-22 18:02:33.771] >>> Trace was selected
+[2024-46-22 18:02:33.817] >>> Charts grid was created
+[2024-46-22 18:02:33.849] >>> Spectral char was created
+[2024-46-22 18:02:35.147] >>> csv file was selected
+[2024-46-22 18:02:36.568] >>> Trace was selected
+[2024-46-22 18:02:37.597] >>> csv file was selected
+[2024-46-22 18:02:39.000] >>> Trace was selected
+[2024-46-22 18:02:42.266] >>> csv file was selected
+[2024-46-22 18:02:44.528] >>> Trace was selected
+[2024-46-22 18:02:47.646] >>> csv file was selected
+[2024-46-22 18:02:48.469] >>> Trace was selected
+[2024-46-22 18:02:50.520] >>> Trace was selected
+[2024-53-22 18:02:13.361] >>> English language was selected
+[2024-53-22 18:02:13.383] >>> Reading language is succesful
+[2024-53-22 18:02:26.135] >>> csv file was selected
+[2024-53-22 18:02:28.350] >>> Trace was selected
+[2024-53-22 18:02:28.371] >>> Charts grid was created
+[2024-53-22 18:02:28.399] >>> Spectral char was created
+[2024-53-22 18:02:28.970] >>> Trace was selected
+[2024-53-22 18:02:32.655] >>> Trace was selected
+[2024-53-22 18:02:34.255] >>> Trace was selected
+[2024-53-22 18:02:36.334] >>> Trace was selected
+[2024-53-22 18:02:37.901] >>> Trace was selected
+[2024-53-22 18:02:45.339] >>> Trace was selected
+[2024-56-22 18:02:32.030] >>> English language was selected
+[2024-56-22 18:02:32.057] >>> Reading language is succesful
+[2024-56-22 18:02:43.876] >>> csv file was selected
+[2024-56-22 18:02:45.820] >>> Trace was selected
+[2024-56-22 18:02:45.836] >>> Charts grid was created
+[2024-56-22 18:02:45.862] >>> Spectral char was created
+[2024-56-22 18:02:55.445] >>> Trace was selected
+[2024-57-22 18:02:04.105] >>> Trace was selected
+[2024-57-22 18:02:04.737] >>> Trace was selected
+[2024-57-22 18:02:09.153] >>> Trace was selected
+[2024-57-22 18:02:17.138] >>> English language was selected
+[2024-57-22 18:02:17.172] >>> Reading language is succesful
+[2024-58-22 18:02:13.323] >>> csv file was selected
+[2024-58-22 18:02:13.755] >>> csv file was selected
+[2024-58-22 18:02:14.219] >>> csv file was selected
+[2024-58-22 18:02:15.835] >>> csv file was selected
+[2024-58-22 18:02:23.504] >>> csv file was selected
+[2024-58-22 18:02:23.844] >>> csv file was selected
+[2024-58-22 18:02:24.259] >>> csv file was selected
+[2024-58-22 18:02:24.438] >>> csv file was selected
+[2024-58-22 18:02:25.048] >>> csv file was selected
+[2024-58-22 18:02:29.626] >>> csv file was selected
+[2024-58-22 18:02:29.981] >>> csv file was selected
+[2024-58-22 18:02:31.088] >>> csv file was selected
+[2024-58-22 18:02:33.750] >>> csv file was selected
+[2024-58-22 18:02:39.756] >>> Trace was selected
+[2024-58-22 18:02:39.770] >>> Charts grid was created
+[2024-58-22 18:02:39.797] >>> Spectral char was created
+[2024-00-22 19:02:30.337] >>> English language was selected
+[2024-00-22 19:02:30.352] >>> Reading language is succesful
+[2024-00-22 19:02:48.081] >>> csv file was selected
+[2024-00-22 19:02:49.774] >>> Trace was selected
+[2024-00-22 19:02:49.797] >>> Charts grid was created
+[2024-00-22 19:02:49.828] >>> Spectral char was created
+[2024-00-22 19:02:55.444] >>> Trace was selected
+[2024-01-22 19:02:31.056] >>> English language was selected
+[2024-01-22 19:02:31.092] >>> Reading language is succesful
+[2024-01-22 19:02:55.121] >>> csv file was selected
+[2024-01-22 19:02:56.792] >>> Trace was selected
+[2024-01-22 19:02:56.820] >>> Charts grid was created
+[2024-01-22 19:02:56.853] >>> Spectral char was created
+[2024-01-22 19:02:59.567] >>> Trace was selected
+[2024-04-22 19:02:07.743] >>> csv file was selected
+[2024-04-22 19:02:09.476] >>> Trace was selected
+[2024-04-22 19:02:13.058] >>> Trace was selected
+[2024-04-22 19:02:13.172] >>> Trace was selected
+[2024-04-22 19:02:14.930] >>> Trace was selected
+[2024-05-22 19:02:22.483] >>> Trace was selected
+[2024-05-22 19:02:23.138] >>> Trace was selected
+[2024-05-22 19:02:40.617] >>> csv file was selected
+[2024-05-22 19:02:41.802] >>> Trace was selected
+[2024-05-22 19:02:43.102] >>> Trace was selected
+[2024-07-22 19:02:03.176] >>> csv file was selected
+[2024-07-22 19:02:04.118] >>> csv file was selected
+[2024-07-22 19:02:06.663] >>> csv file was selected
+[2024-07-22 19:02:08.628] >>> Trace was selected
+[2024-07-22 19:02:11.073] >>> Trace was selected
+[2024-08-22 19:02:12.517] >>> csv file was selected
+[2024-08-22 19:02:13.729] >>> Trace was selected
+[2024-08-22 19:02:16.916] >>> Trace was selected
+[2024-08-22 19:02:59.563] >>> csv file was selected
+[2024-09-22 19:02:00.632] >>> csv file was selected
+[2024-09-22 19:02:02.628] >>> csv file was selected
+[2024-09-22 19:02:04.837] >>> Trace was selected
+[2024-09-22 19:02:05.799] >>> Trace was selected
+[2024-10-22 19:02:37.320] >>> csv file was selected
+[2024-10-22 19:02:43.664] >>> csv file was selected
+[2024-10-22 19:02:44.486] >>> csv file was selected
+[2024-10-22 19:02:45.992] >>> csv file was selected
+[2024-10-22 19:02:47.946] >>> Trace was selected
+[2024-10-22 19:02:50.511] >>> Trace was selected
+[2024-12-22 19:02:12.722] >>> csv file was selected
+[2024-12-22 19:02:14.152] >>> Trace was selected
+[2024-12-22 19:02:14.855] >>> Trace was selected
+[2024-12-22 19:02:16.011] >>> csv file was selected
+[2024-14-22 19:02:20.850] >>> csv file was selected
+[2024-14-22 19:02:22.026] >>> csv file was selected
+[2024-14-22 19:02:24.625] >>> Trace was selected
+[2024-14-22 19:02:26.140] >>> Trace was selected
+[2024-14-22 19:02:54.113] >>> Trace was selected
+[2024-14-22 19:02:55.408] >>> Trace was selected
+[2024-15-22 19:02:10.989] >>> csv file was selected
+[2024-15-22 19:02:11.937] >>> Trace was selected
+[2024-15-22 19:02:13.780] >>> Trace was selected
+[2024-16-22 19:02:16.366] >>> csv file was selected
+[2024-17-22 19:02:12.813] >>> Trace was selected
+[2024-17-22 19:02:14.639] >>> Trace was selected
+[2024-18-22 19:02:10.299] >>> Trace was selected
+[2024-21-22 19:02:07.551] >>> csv file was selected
+[2024-21-22 19:02:11.694] >>> csv file was selected
+[2024-21-22 19:02:15.912] >>> Trace was selected
+[2024-21-22 19:02:16.851] >>> Trace was selected
+[2024-22-22 19:02:14.826] >>> csv file was selected
+[2024-23-22 19:02:46.094] >>> csv file was selected
+[2024-23-22 19:02:47.172] >>> Trace was selected
+[2024-23-22 19:02:48.675] >>> Trace was selected
+[2024-23-22 19:02:50.160] >>> csv file was selected
+[2024-24-22 19:02:29.138] >>> csv file was selected
+[2024-24-22 19:02:30.419] >>> Trace was selected
+[2024-24-22 19:02:32.064] >>> csv file was selected
+[2024-24-22 19:02:35.657] >>> csv file was selected
+[2024-24-22 19:02:36.862] >>> Trace was selected
+[2024-24-22 19:02:38.404] >>> csv file was selected
+[2024-25-22 19:02:34.861] >>> csv file was selected
+[2024-25-22 19:02:42.074] >>> Trace was selected
+[2024-25-22 19:02:43.560] >>> Trace was selected
+[2024-26-22 19:02:48.158] >>> csv file was selected
+[2024-26-22 19:02:49.509] >>> Trace was selected
+[2024-26-22 19:02:50.855] >>> Trace was selected
+[2024-28-22 19:02:09.394] >>> csv file was selected
+[2024-28-22 19:02:10.312] >>> csv file was selected
+[2024-28-22 19:02:12.429] >>> csv file was selected
+[2024-28-22 19:02:13.973] >>> Trace was selected
+[2024-28-22 19:02:15.786] >>> Trace was selected
+[2024-29-22 19:02:02.147] >>> csv file was selected
+[2024-29-22 19:02:04.344] >>> csv file was selected
+[2024-29-22 19:02:05.577] >>> Trace was selected
+[2024-29-22 19:02:07.182] >>> Trace was selected
+[2024-31-22 19:02:20.050] >>> csv file was selected
+[2024-31-22 19:02:21.903] >>> Trace was selected
+[2024-31-22 19:02:24.953] >>> Trace was selected
+[2024-31-22 19:02:32.539] >>> Trace was selected
+[2024-31-22 19:02:38.595] >>> Trace was selected
+[2024-31-22 19:02:38.631] >>> Charts grid was created
+[2024-31-22 19:02:38.651] >>> Spectral char was created
+[2024-31-22 19:02:40.752] >>> csv file was selected
+[2024-31-22 19:02:42.168] >>> Trace was selected
+[2024-31-22 19:02:46.866] >>> csv file was selected
+[2024-31-22 19:02:48.491] >>> Trace was selected
+[2024-31-22 19:02:57.719] >>> csv file was selected
+[2024-31-22 19:02:59.050] >>> Trace was selected
+[2024-32-22 19:02:00.653] >>> csv file was selected
+[2024-32-22 19:02:01.554] >>> csv file was selected
+[2024-32-22 19:02:03.694] >>> csv file was selected
+[2024-32-22 19:02:05.002] >>> Trace was selected
+[2024-32-22 19:02:05.834] >>> Trace was selected
+[2024-32-22 19:02:06.171] >>> Trace was selected
+[2024-32-22 19:02:06.731] >>> Trace was selected
+[2024-33-22 19:02:33.206] >>> csv file was selected
+[2024-33-22 19:02:35.572] >>> Trace was selected
+[2024-33-22 19:02:37.764] >>> Trace was selected
+[2024-33-22 19:02:39.394] >>> Trace was selected
+[2024-33-22 19:02:40.284] >>> csv file was selected
+[2024-33-22 19:02:40.880] >>> csv file was selected
+[2024-33-22 19:02:41.379] >>> csv file was selected
+[2024-33-22 19:02:41.681] >>> csv file was selected
+[2024-33-22 19:02:43.219] >>> csv file was selected
+[2024-33-22 19:02:44.873] >>> csv file was selected
+[2024-33-22 19:02:46.072] >>> csv file was selected
+[2024-33-22 19:02:46.733] >>> csv file was selected
+[2024-33-22 19:02:47.046] >>> csv file was selected
+[2024-34-22 19:02:02.311] >>> csv file was selected
+[2024-34-22 19:02:04.609] >>> Trace was selected
+[2024-34-22 19:02:44.048] >>> Trace was selected
+[2024-34-22 19:02:45.969] >>> csv file was selected
+[2024-34-22 19:02:47.559] >>> csv file was selected
+[2024-34-22 19:02:48.907] >>> Trace was selected
+[2024-34-22 19:02:50.062] >>> Trace was selected
+[2024-34-22 19:02:51.352] >>> csv file was selected
+[2024-34-22 19:02:52.460] >>> csv file was selected
+[2024-34-22 19:02:54.111] >>> Trace was selected
+[2024-34-22 19:02:55.015] >>> csv file was selected
+[2024-34-22 19:02:57.422] >>> Trace was selected
+[2024-35-22 19:02:00.036] >>> csv file was selected
+[2024-35-22 19:02:08.608] >>> csv file was selected
+[2024-35-22 19:02:10.073] >>> csv file was selected
+[2024-35-22 19:02:33.753] >>> csv file was selected
+[2024-35-22 19:02:34.337] >>> csv file was selected
+[2024-35-22 19:02:45.510] >>> csv file was selected
+[2024-35-22 19:02:47.223] >>> Trace was selected
+[2024-35-22 19:02:50.689] >>> csv file was selected
+[2024-35-22 19:02:54.181] >>> Trace was selected
+[2024-35-22 19:02:57.711] >>> Trace was selected
+[2024-35-22 19:02:59.501] >>> Trace was selected
+[2024-36-22 19:02:00.588] >>> Trace was selected
+[2024-36-22 19:02:01.141] >>> Trace was selected
+[2024-36-22 19:02:38.514] >>> Trace was selected
+[2024-36-22 19:02:40.057] >>> Trace was selected
+[2024-36-22 19:02:41.597] >>> Trace was selected
+[2024-36-22 19:02:45.357] >>> Trace was selected
+[2024-36-22 19:02:47.001] >>> Trace was selected
+[2024-36-22 19:02:48.393] >>> csv file was selected
+[2024-36-22 19:02:52.010] >>> csv file was selected
+[2024-36-22 19:02:52.683] >>> csv file was selected
+[2024-37-22 19:02:00.250] >>> Trace was selected
+[2024-49-22 19:02:41.775] >>> csv file was selected
+[2024-50-22 19:02:13.714] >>> Trace was selected
+[2024-50-22 19:02:47.821] >>> Trace was selected
+[2024-54-22 19:02:49.208] >>> Trace was selected
+[2024-54-22 19:02:50.290] >>> csv file was selected
+[2024-54-22 19:02:51.219] >>> csv file was selected
+[2024-06-22 20:02:43.137] >>> Trace was selected
+[2024-06-22 20:02:45.993] >>> csv file was selected
+[2024-06-22 20:02:46.737] >>> csv file was selected
+[2024-06-22 20:02:47.140] >>> csv file was selected
+[2024-06-22 20:02:47.908] >>> csv file was selected
+[2024-06-22 20:02:48.417] >>> csv file was selected
+[2024-06-22 20:02:57.483] >>> Trace was selected
+[2024-06-22 20:02:57.510] >>> Charts grid was created
+[2024-06-22 20:02:57.553] >>> Spectral char was created
+[2024-07-22 20:02:04.862] >>> Trace was selected
+[2024-07-22 20:02:50.373] >>> Trace was selected
+[2024-07-22 20:02:50.410] >>> Charts grid was created
+[2024-07-22 20:02:50.430] >>> Spectral char was created
+[2024-07-22 20:02:52.324] >>> Trace was selected
+[2024-07-22 20:02:59.835] >>> Trace was selected
+[2024-08-22 20:02:04.459] >>> Trace was selected
+[2024-08-22 20:02:15.548] >>> csv file was selected
+[2024-08-22 20:02:17.379] >>> csv file was selected
+[2024-09-22 20:02:31.564] >>> csv file was selected
+[2024-09-22 20:02:35.369] >>> Trace was selected
+[2024-09-22 20:02:36.378] >>> Trace was selected
+[2024-09-22 20:02:37.416] >>> Trace was selected
+[2024-09-22 20:02:39.041] >>> Trace was selected
+[2024-09-22 20:02:41.668] >>> csv file was selected
+[2024-09-22 20:02:43.213] >>> Trace was selected
+[2024-09-22 20:02:44.986] >>> csv file was selected
+[2024-09-22 20:02:46.775] >>> Trace was selected
+[2024-09-22 20:02:49.004] >>> Trace was selected
+[2024-12-22 20:02:59.203] >>> csv file was selected
+[2024-13-22 20:02:00.214] >>> csv file was selected
+[2024-13-22 20:02:00.821] >>> csv file was selected
+[2024-13-22 20:02:01.439] >>> csv file was selected
+[2024-13-22 20:02:02.447] >>> csv file was selected
+[2024-13-22 20:02:03.233] >>> csv file was selected
+[2024-13-22 20:02:04.064] >>> csv file was selected
+[2024-13-22 20:02:05.010] >>> csv file was selected
+[2024-13-22 20:02:07.158] >>> csv file was selected
+[2024-13-22 20:02:08.041] >>> csv file was selected
+[2024-13-22 20:02:09.306] >>> csv file was selected
+[2024-13-22 20:02:10.158] >>> csv file was selected
+[2024-13-22 20:02:10.636] >>> csv file was selected
+[2024-13-22 20:02:11.926] >>> csv file was selected
+[2024-13-22 20:02:14.232] >>> csv file was selected
+[2024-13-22 20:02:15.334] >>> csv file was selected
+[2024-14-22 20:02:56.833] >>> Trace was selected
+[2024-14-22 20:02:58.373] >>> Trace was selected
+[2024-14-22 20:02:59.965] >>> Trace was selected
+[2024-15-22 20:02:01.282] >>> Trace was selected
+[2024-15-22 20:02:03.652] >>> Trace was selected
+[2024-16-22 20:02:18.725] >>> English language was selected
+[2024-16-22 20:02:18.832] >>> Reading language is succesful
+[2024-17-22 20:02:11.513] >>> csv file was selected
+[2024-17-22 20:02:14.558] >>> csv file was selected
+[2024-17-22 20:02:14.995] >>> csv file was selected
+[2024-17-22 20:02:17.313] >>> csv file was selected
+[2024-17-22 20:02:26.369] >>> csv file was selected
+[2024-17-22 20:02:38.928] >>> csv file was selected
+[2024-17-22 20:02:42.314] >>> Trace was selected
+[2024-17-22 20:02:50.770] >>> csv file was selected
+[2024-17-22 20:02:52.083] >>> csv file was selected
+[2024-17-22 20:02:52.993] >>> csv file was selected
+[2024-17-22 20:02:57.144] >>> Trace was selected
+[2024-17-22 20:02:57.686] >>> Trace was selected
+[2024-18-22 20:02:00.871] >>> Trace was selected
+[2024-18-22 20:02:09.296] >>> csv file was selected
+[2024-18-22 20:02:15.693] >>> csv file was selected
+[2024-18-22 20:02:22.638] >>> csv file was selected
+[2024-18-22 20:02:23.355] >>> csv file was selected
+[2024-18-22 20:02:56.728] >>> csv file was selected
+[2024-19-22 20:02:04.576] >>> csv file was selected
+[2024-19-22 20:02:05.365] >>> csv file was selected
+[2024-19-22 20:02:13.947] >>> csv file was selected
+[2024-19-22 20:02:22.338] >>> csv file was selected
+[2024-19-22 20:02:24.102] >>> csv file was selected
+[2024-19-22 20:02:31.727] >>> csv file was selected
+[2024-19-22 20:02:41.533] >>> csv file was selected
+[2024-19-22 20:02:43.329] >>> csv file was selected
+[2024-19-22 20:02:43.986] >>> csv file was selected
+[2024-19-22 20:02:46.094] >>> csv file was selected
+[2024-19-22 20:02:47.642] >>> csv file was selected
+[2024-19-22 20:02:48.400] >>> csv file was selected
+[2024-19-22 20:02:48.439] >>> Charts grid was created
+[2024-19-22 20:02:48.454] >>> Spectral char was created
+[2024-19-22 20:02:51.917] >>> csv file was selected
+[2024-19-22 20:02:52.528] >>> csv file was selected
+[2024-19-22 20:02:53.149] >>> csv file was selected
+[2024-19-22 20:02:54.133] >>> csv file was selected
+[2024-19-22 20:02:55.954] >>> csv file was selected
+[2024-20-22 20:02:27.134] >>> csv file was selected
+[2024-20-22 20:02:31.031] >>> csv file was selected
+[2024-20-22 20:02:36.165] >>> csv file was selected
+[2024-21-22 20:02:03.423] >>> csv file was selected
+[2024-26-22 20:02:15.562] >>> csv file was selected
+[2024-27-22 20:02:08.043] >>> csv file was selected
+[2024-27-22 20:02:09.797] >>> csv file was selected
+[2024-27-22 20:02:10.520] >>> Trace was selected
+[2024-27-22 20:02:10.535] >>> Charts grid was created
+[2024-27-22 20:02:10.559] >>> Spectral char was created
+[2024-27-22 20:02:19.958] >>> English language was selected
+[2024-27-22 20:02:19.980] >>> Reading language is succesful
+[2024-29-22 20:02:39.876] >>> English language was selected
+[2024-29-22 20:02:39.940] >>> Reading language is succesful
+[2024-30-22 20:02:08.529] >>> csv file was selected
+[2024-30-22 20:02:22.935] >>> csv file was selected
+[2024-30-22 20:02:29.567] >>> csv file was selected
+[2024-30-22 20:02:53.295] >>> English language was selected
+[2024-30-22 20:02:53.310] >>> Reading language is succesful
+[2024-31-22 20:02:50.434] >>> csv file was selected
+[2024-31-22 20:02:52.867] >>> Trace was selected
+[2024-31-22 20:02:52.906] >>> Charts grid was created
+[2024-31-22 20:02:52.957] >>> Spectral char was created
+[2024-31-22 20:02:54.349] >>> csv file was selected
+[2024-31-22 20:02:56.992] >>> Trace was selected
+[2024-31-22 20:02:59.034] >>> Trace was selected
+[2024-32-22 20:02:01.458] >>> csv file was selected
+[2024-32-22 20:02:03.111] >>> Trace was selected
+[2024-32-22 20:02:04.370] >>> csv file was selected
+[2024-32-22 20:02:06.368] >>> Trace was selected
+[2024-32-22 20:02:08.903] >>> Trace was selected
+[2024-32-22 20:02:11.485] >>> Trace was selected
+[2024-32-22 20:02:24.561] >>> Trace was selected
+[2024-32-22 20:02:25.873] >>> Trace was selected
+[2024-33-22 20:02:06.611] >>> Trace was selected
+[2024-33-22 20:02:10.856] >>> Trace was selected
+[2024-34-22 20:02:20.238] >>> Trace was selected
+[2024-34-22 20:02:22.705] >>> Trace was selected
+[2024-35-22 20:02:24.760] >>> Trace was selected
+[2024-15-22 22:02:41.259] >>> English language was selected
+[2024-15-22 22:02:41.426] >>> Reading language is succesful
+[2024-17-22 22:02:49.208] >>> csv file was selected
+[2024-17-22 22:02:49.756] >>> csv file was selected
+[2024-17-22 22:02:50.869] >>> csv file was selected
+[2024-17-22 22:02:51.319] >>> csv file was selected
+[2024-17-22 22:02:52.327] >>> csv file was selected
+[2024-17-22 22:02:53.644] >>> csv file was selected
+[2024-17-22 22:02:54.317] >>> csv file was selected
+[2024-17-22 22:02:56.138] >>> Trace was selected
+[2024-17-22 22:02:56.157] >>> Charts grid was created
+[2024-17-22 22:02:56.227] >>> Spectral char was created
+[2024-17-22 22:02:57.709] >>> Trace was selected
+[2024-17-22 22:02:59.238] >>> Trace was selected
+[2024-18-22 22:02:00.139] >>> Trace was selected
+[2024-18-22 22:02:02.386] >>> Trace was selected
+[2024-18-22 22:02:03.750] >>> Trace was selected
+[2024-18-22 22:02:28.192] >>> Trace was selected
+[2024-18-22 22:02:29.390] >>> Trace was selected
+[2024-18-22 22:02:30.662] >>> Trace was selected
+[2024-18-22 22:02:32.729] >>> Trace was selected
+[2024-18-22 22:02:34.053] >>> Trace was selected
+[2024-18-22 22:02:35.670] >>> csv file was selected
+[2024-18-22 22:02:36.536] >>> csv file was selected
+[2024-18-22 22:02:37.116] >>> csv file was selected
+[2024-18-22 22:02:37.656] >>> csv file was selected
+[2024-18-22 22:02:38.304] >>> csv file was selected
+[2024-18-22 22:02:46.896] >>> csv file was selected
+[2024-18-22 22:02:47.742] >>> csv file was selected
+[2024-18-22 22:02:48.240] >>> csv file was selected
+[2024-18-22 22:02:48.999] >>> csv file was selected
+[2024-18-22 22:02:49.524] >>> csv file was selected
+[2024-18-22 22:02:51.103] >>> Trace was selected
+[2024-18-22 22:02:52.546] >>> Trace was selected
+[2024-18-22 22:02:52.623] >>> Charts grid was created
+[2024-18-22 22:02:52.644] >>> Spectral char was created
+[2024-18-22 22:02:55.240] >>> Trace was selected
+[2024-18-22 22:02:56.966] >>> Trace was selected
+[2024-18-22 22:02:59.082] >>> Trace was selected
+[2024-19-22 22:02:01.161] >>> Trace was selected
+[2024-24-22 22:02:48.060] >>> Trace was selected
+[2024-24-22 22:02:49.634] >>> Trace was selected
+[2024-24-22 22:02:51.512] >>> Trace was selected
+[2024-26-22 22:02:12.255] >>> Trace was selected
+[2024-26-22 22:02:13.540] >>> Trace was selected
+[2024-26-22 22:02:15.770] >>> Trace was selected
+[2024-26-22 22:02:16.944] >>> csv file was selected
+[2024-26-22 22:02:17.539] >>> csv file was selected
+[2024-26-22 22:02:18.434] >>> csv file was selected
+[2024-26-22 22:02:19.709] >>> csv file was selected
+[2024-26-22 22:02:20.640] >>> csv file was selected
+[2024-26-22 22:02:21.757] >>> csv file was selected
+[2024-26-22 22:02:22.615] >>> csv file was selected
+[2024-26-22 22:02:34.794] >>> Trace was selected
+[2024-26-22 22:02:34.810] >>> Charts grid was created
+[2024-26-22 22:02:34.831] >>> Spectral char was created
+[2024-26-22 22:02:36.000] >>> csv file was selected
+[2024-26-22 22:02:37.298] >>> Trace was selected
+[2024-26-22 22:02:39.441] >>> csv file was selected
+[2024-26-22 22:02:40.743] >>> Trace was selected
+[2024-26-22 22:02:42.111] >>> csv file was selected
+[2024-26-22 22:02:43.429] >>> Trace was selected
+[2024-26-22 22:02:45.549] >>> csv file was selected
+[2024-26-22 22:02:47.444] >>> Trace was selected
+[2024-31-22 22:02:37.806] >>> Trace was selected
+[2024-31-22 22:02:39.987] >>> csv file was selected
+[2024-31-22 22:02:40.488] >>> csv file was selected
+[2024-31-22 22:02:41.149] >>> Trace was selected
+[2024-31-22 22:02:43.389] >>> csv file was selected
+[2024-31-22 22:02:43.565] >>> csv file was selected
+[2024-31-22 22:02:45.206] >>> csv file was selected
+[2024-31-22 22:02:45.528] >>> csv file was selected
+[2024-31-22 22:02:49.015] >>> csv file was selected
+[2024-31-22 22:02:49.885] >>> csv file was selected
+[2024-31-22 22:02:50.723] >>> csv file was selected
+[2024-31-22 22:02:51.344] >>> csv file was selected
+[2024-31-22 22:02:52.021] >>> csv file was selected
+[2024-31-22 22:02:52.055] >>> Charts grid was created
+[2024-31-22 22:02:52.070] >>> Spectral char was created
+[2024-31-22 22:02:54.488] >>> csv file was selected
+[2024-32-22 22:02:16.815] >>> csv file was selected
+[2024-32-22 22:02:18.078] >>> Trace was selected
+[2024-32-22 22:02:18.095] >>> Charts grid was created
+[2024-32-22 22:02:18.127] >>> Spectral char was created
+[2024-32-22 22:02:19.135] >>> csv file was selected
+[2024-32-22 22:02:20.219] >>> Trace was selected
+[2024-32-22 22:02:23.459] >>> csv file was selected
+[2024-32-22 22:02:24.873] >>> csv file was selected
+[2024-32-22 22:02:26.289] >>> Trace was selected
+[2024-32-22 22:02:27.569] >>> csv file was selected
+[2024-32-22 22:02:29.401] >>> Trace was selected
+[2024-32-22 22:02:32.738] >>> csv file was selected
+[2024-32-22 22:02:34.191] >>> Trace was selected
+[2024-40-22 22:02:38.553] >>> csv file was selected
+[2024-40-22 22:02:39.747] >>> Trace was selected
+[2024-40-22 22:02:41.293] >>> Trace was selected
+[2024-40-22 22:02:42.433] >>> Trace was selected
+[2024-40-22 22:02:44.105] >>> Trace was selected
+[2024-40-22 22:02:45.288] >>> Trace was selected
+[2024-40-22 22:02:48.793] >>> Trace was selected
+[2024-40-22 22:02:48.834] >>> Charts grid was created
+[2024-40-22 22:02:48.850] >>> Spectral char was created
+[2024-40-22 22:02:49.786] >>> csv file was selected
+[2024-41-22 22:02:01.039] >>> csv file was selected
+[2024-41-22 22:02:02.654] >>> Trace was selected
+[2024-41-22 22:02:03.498] >>> csv file was selected
+[2024-41-22 22:02:05.278] >>> Trace was selected
+[2024-41-22 22:02:05.979] >>> csv file was selected
+[2024-41-22 22:02:07.993] >>> Trace was selected
+[2024-41-22 22:02:10.558] >>> csv file was selected
+[2024-41-22 22:02:12.060] >>> csv file was selected
+[2024-41-22 22:02:14.890] >>> Trace was selected
+[2024-44-22 22:02:52.939] >>> csv file was selected
+[2024-44-22 22:02:54.956] >>> Trace was selected
+[2024-44-22 22:02:58.158] >>> csv file was selected
+[2024-45-22 22:02:35.242] >>> Trace was selected
+[2024-45-22 22:02:36.626] >>> Trace was selected
+[2024-45-22 22:02:38.452] >>> Trace was selected
+[2024-45-22 22:02:40.174] >>> Trace was selected
+[2024-45-22 22:02:41.915] >>> Trace was selected
+[2024-45-22 22:02:45.110] >>> Trace was selected
+[2024-45-22 22:02:46.958] >>> csv file was selected
+[2024-45-22 22:02:49.038] >>> Trace was selected
+[2024-45-22 22:02:50.194] >>> csv file was selected
+[2024-45-22 22:02:52.387] >>> Trace was selected
+[2024-45-22 22:02:53.677] >>> csv file was selected
+[2024-45-22 22:02:55.796] >>> Trace was selected
+[2024-45-22 22:02:56.697] >>> csv file was selected
+[2024-45-22 22:02:59.214] >>> Trace was selected
+[2024-46-22 22:02:30.140] >>> csv file was selected
+[2024-46-22 22:02:31.093] >>> csv file was selected
+[2024-46-22 22:02:32.251] >>> csv file was selected
+[2024-46-22 22:02:33.481] >>> csv file was selected
+[2024-46-22 22:02:35.097] >>> Trace was selected
+[2024-46-22 22:02:36.281] >>> csv file was selected
+[2024-46-22 22:02:37.552] >>> Trace was selected
+[2024-46-22 22:02:38.704] >>> csv file was selected
+[2024-46-22 22:02:40.228] >>> Trace was selected
+[2024-46-22 22:02:42.916] >>> Trace was selected
+[2024-46-22 22:02:44.970] >>> csv file was selected
+[2024-46-22 22:02:46.614] >>> Trace was selected
+[2024-46-22 22:02:47.907] >>> csv file was selected
+[2024-46-22 22:02:49.335] >>> Trace was selected
+[2024-47-22 22:02:06.515] >>> csv file was selected
+[2024-47-22 22:02:07.183] >>> csv file was selected
+[2024-47-22 22:02:08.506] >>> csv file was selected
+[2024-47-22 22:02:09.055] >>> csv file was selected
+[2024-47-22 22:02:10.404] >>> csv file was selected
+[2024-47-22 22:02:10.873] >>> csv file was selected
+[2024-47-22 22:02:11.767] >>> csv file was selected
+[2024-47-22 22:02:12.198] >>> csv file was selected
+[2024-47-22 22:02:14.257] >>> csv file was selected
+[2024-47-22 22:02:14.659] >>> csv file was selected
+[2024-53-22 22:02:50.653] >>> csv file was selected
+[2024-53-22 22:02:50.837] >>> csv file was selected
+[2024-53-22 22:02:51.358] >>> csv file was selected
+[2024-53-22 22:02:51.765] >>> csv file was selected
+[2024-53-22 22:02:52.822] >>> csv file was selected
+[2024-53-22 22:02:53.202] >>> csv file was selected
+[2024-53-22 22:02:54.564] >>> csv file was selected
+[2024-53-22 22:02:55.152] >>> csv file was selected
+[2024-53-22 22:02:56.343] >>> csv file was selected
+[2024-53-22 22:02:56.662] >>> csv file was selected
+[2024-54-22 22:02:00.040] >>> csv file was selected
+[2024-54-22 22:02:21.518] >>> csv file was selected
+[2024-54-22 22:02:22.006] >>> csv file was selected
+[2024-54-22 22:02:23.059] >>> csv file was selected
+[2024-54-22 22:02:23.481] >>> csv file was selected
+[2024-54-22 22:02:23.857] >>> csv file was selected
+[2024-54-22 22:02:26.444] >>> csv file was selected
+[2024-54-22 22:02:26.484] >>> Charts grid was created
+[2024-54-22 22:02:26.501] >>> Spectral char was created
+[2024-54-22 22:02:29.319] >>> csv file was selected
+[2024-54-22 22:02:32.635] >>> csv file was selected
+[2024-54-22 22:02:33.913] >>> csv file was selected
+[2024-54-22 22:02:35.508] >>> csv file was selected
+[2024-54-22 22:02:36.774] >>> csv file was selected
+[2024-54-22 22:02:38.120] >>> csv file was selected
+[2024-54-22 22:02:39.343] >>> csv file was selected
+[2024-54-22 22:02:39.846] >>> csv file was selected
+[2024-54-22 22:02:40.315] >>> csv file was selected
+[2024-54-22 22:02:40.853] >>> csv file was selected
+[2024-54-22 22:02:41.360] >>> csv file was selected
+[2024-54-22 22:02:41.917] >>> csv file was selected
+[2024-54-22 22:02:42.958] >>> csv file was selected
+[2024-54-22 22:02:43.688] >>> csv file was selected
+[2024-54-22 22:02:44.224] >>> csv file was selected
+[2024-57-22 22:02:03.504] >>> csv file was selected
+[2024-57-22 22:02:04.163] >>> csv file was selected
+[2024-57-22 22:02:04.605] >>> csv file was selected
+[2024-57-22 22:02:05.135] >>> csv file was selected
+[2024-57-22 22:02:05.926] >>> csv file was selected
+[2024-57-22 22:02:07.268] >>> csv file was selected
+[2024-57-22 22:02:08.858] >>> Trace was selected
+[2024-57-22 22:02:08.872] >>> Charts grid was created
+[2024-57-22 22:02:08.893] >>> Spectral char was created
+[2024-57-22 22:02:09.884] >>> Trace was selected
+[2024-57-22 22:02:11.929] >>> Trace was selected
+[2024-57-22 22:02:12.984] >>> Trace was selected
+[2024-57-22 22:02:15.002] >>> Trace was selected
+[2024-15-22 23:02:01.078] >>> csv file was selected
+[2024-15-22 23:02:01.552] >>> csv file was selected
+[2024-15-22 23:02:02.693] >>> csv file was selected
+[2024-15-22 23:02:03.186] >>> csv file was selected
+[2024-15-22 23:02:04.935] >>> csv file was selected
+[2024-15-22 23:02:07.181] >>> csv file was selected
+[2024-15-22 23:02:07.788] >>> csv file was selected
+[2024-15-22 23:02:09.664] >>> csv file was selected
+[2024-15-22 23:02:09.995] >>> csv file was selected
+[2024-15-22 23:02:12.460] >>> csv file was selected
+[2024-15-22 23:02:12.784] >>> csv file was selected
+[2024-15-22 23:02:15.539] >>> csv file was selected
+[2024-15-22 23:02:15.556] >>> Charts grid was created
+[2024-15-22 23:02:15.580] >>> Spectral char was created
+[2024-15-22 23:02:18.465] >>> csv file was selected
+[2024-15-22 23:02:19.197] >>> csv file was selected
+[2024-15-22 23:02:20.593] >>> csv file was selected
+[2024-15-22 23:02:22.519] >>> csv file was selected
+[2024-15-22 23:02:25.059] >>> csv file was selected
+[2024-15-22 23:02:28.628] >>> csv file was selected
+[2024-15-22 23:02:32.884] >>> csv file was selected
+[2024-15-22 23:02:36.748] >>> csv file was selected
+[2024-15-22 23:02:40.610] >>> csv file was selected
+[2024-15-22 23:02:44.500] >>> csv file was selected
+[2024-15-22 23:02:48.877] >>> csv file was selected
+[2024-15-22 23:02:52.792] >>> csv file was selected
+[2024-15-22 23:02:56.693] >>> csv file was selected
+[2024-16-22 23:02:00.741] >>> csv file was selected
+[2024-16-22 23:02:04.834] >>> csv file was selected
+[2024-14-07 06:03:59.001] >>> English language was selected
+[2024-15-07 06:03:03.683] >>> Reading language is succesful
